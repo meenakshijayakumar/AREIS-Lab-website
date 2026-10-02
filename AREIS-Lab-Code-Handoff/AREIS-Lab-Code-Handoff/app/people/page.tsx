@@ -1,0 +1,6 @@
+import { PageHero } from '../components/page-hero'
+import { SiteFooter, SiteHeader } from '../components/site-shell'
+import content from '../site-content.json'
+import Image from 'next/image'
+import { PeopleBrowser } from '../content-browsers'
+export default function PeoplePage() { return <><SiteHeader /><PageHero label="People" title="Our team." text="Researchers, engineers, scientists, and students across marine, agricultural, healthcare, and manipulation robotics." /><main className="route-main"><section className="director-wide"><Image src="/reference/images/Dr.Irfan.png" alt="Dr. Irfan Hussain" width={650} height={650} /><div><p className="issue">Lab director</p><h2>Dr. Irfan Hussain</h2><p>Associate Professor · Department of Mechanical Engineering<br />Khalifa University, Abu Dhabi, UAE</p><p>{content.biography[0]}</p><a className="text-action" href="https://www.linkedin.com/in/irfan-hussain-353ba881/" target="_blank" rel="noreferrer">View profile ↗</a></div></section><details className="director-biography"><summary>Full biography & academic leadership</summary>{content.biography.slice(1).map(p => <p key={p}>{p}</p>)}</details><div className="reference-stats">{content.stats.map(s => <div key={s.label}><strong>{s.value}</strong><span>{s.label}</span></div>)}</div><PeopleBrowser entries={content.people} /></main><SiteFooter /></> }

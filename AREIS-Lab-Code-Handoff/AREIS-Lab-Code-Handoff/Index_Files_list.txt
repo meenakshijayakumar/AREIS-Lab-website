@@ -1,0 +1,30 @@
+Removed **Collaborate** and **“5 research areas.”** Refresh [the website](http://localhost:3000). Desktop/mobile, navigation, TypeScript, and lint checks passed.
+
+**The homepage’s HTML-like code is in `app/page.tsx`.** This website uses React `.tsx` files instead of a single `.html` file.
+
+### Files you’ll edit most often
+
+| File | What it controls |
+|---|---|
+| [content/areis-website-content.xlsx](C:/Users/108139/Downloads/AREIS-Lab-Code-Handoff/AREIS-Lab-Code-Handoff/content/areis-website-content.xlsx) | **Projects and research content**—edit in Excel, save, then refresh. |
+| [app/site-content.json](C:/Users/108139/Downloads/AREIS-Lab-Code-Handoff/AREIS-Lab-Code-Handoff/app/site-content.json) | **People, publications, news, partners, and general lab information.** |
+| [app/page.tsx](C:/Users/108139/Downloads/AREIS-Lab-Code-Handoff/AREIS-Lab-Code-Handoff/app/page.tsx) | **Homepage** sections, headings, collage photographs, and captions. |
+| [app/globals.css](C:/Users/108139/Downloads/AREIS-Lab-Code-Handoff/AREIS-Lab-Code-Handoff/app/globals.css) | **Appearance**—colours, fonts, spacing, rounded corners, and animations. |
+
+### Other main files and folders
+
+| File/folder | Simple explanation |
+|---|---|
+| `app/components/site-shell.tsx` | Shared header, navigation, logo, and footer. |
+| `app/research/page.tsx`, `app/projects/page.tsx`, etc. | Layout and introductory text for each separate page. |
+| Folders named `[slug]` | Templates for individual project, research, and news detail pages. |
+| `app/layout.tsx` | Shared page wrapper and browser title/metadata. |
+| Other `app/components/` files | Reusable features such as the contact form and collage animation. |
+| `app/content-browsers.tsx` | Search, filters, and publication pagination. |
+| `public/` | Website photographs, diagrams, and logos. |
+| `data/contact-enquiries.csv` | Automatically saved contact messages—open this to review enquiries. |
+| `app/lib/` and `app/api/` | Code that reads Excel and saves contact enquiries. |
+| `package.json` / `package-lock.json` | Commands and software dependencies; npm maintains the lock file. |
+| `README.md`, `HANDOFF.md`, `AGENTS.md` | Running instructions, design notes, and development rules. |
+| `scripts/`, configuration files | Validation, tests, and technical settings; rarely need editing. |
+| `node_modules/`, `.next/` | Automatically installed/generated files; leave these alone. |

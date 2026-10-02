@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MBZIRC",
+    "image": "/images/partners/mbzirc.svg",
+    "dark": true,
+    "source": "https://www.mbzirc.com/themes/custom/mbzirc/logo.svg"
+  },
+  {
+    "name": "Existo",
+    "image": "/images/partners/existo.png",
+    "dark": false,
+    "source": "https://cdn.healthtechalpha.com/static/startup_data_images/67005.png"
+  },
+  {
+    "name": "Stanford University",
+    "image": "/images/partners/stanford-university.png",
+    "dark": false,
+    "source": "https://identity.stanford.edu/wp-content/uploads/sites/3/2020/06/wordmark-full-nospace-red.png"
+  },
+  {
+    "name": "Chalmers University",
+    "image": "/images/partners/chalmers-university.svg",
+    "dark": true,
+    "source": "https://www.chalmers.se/_next/static/media/chalmers-emblem-white.11pif_jbe56ne.svg"
+  },
+  {
+    "name": "University of Siena",
+    "image": "/images/partners/university-of-siena.png",
+    "dark": false,
+    "source": "https://sailab.diism.unisi.it/wp-content/uploads/2019/10/logo_unisi_sito_sailab.png"
+  },
+  {
+    "name": "Politecnico di Torino",
+    "image": "/images/partners/politecnico-di-torino.svg",
+    "dark": false,
+    "source": "https://www.polito.it/themes/custom/polito_customizations/polito_logo_desktop.svg"
+  },
+  {
+    "name": "Beijing Institute of Technology",
+    "image": "/images/partners/beijing-institute-of-technology.png",
+    "dark": true,
+    "source": "https://subsites.chinadaily.com.cn/enbit/att/6913.files/images/BIT_Logo.png"
+  },
+  {
+    "name": "Silal Agriculture",
+    "image": "/images/partners/silal-agriculture.webp",
+    "dark": true,
+    "source": "https://cdn.prod.website-files.com/64f03bd9bf9459e1c78b1166/64f03bd9bf9459e1c78b1191_silal-logo-white.webp"
+  }
+]

@@ -1,0 +1,5 @@
+import { PageHero } from '../components/page-hero'
+import { SiteFooter, SiteHeader } from '../components/site-shell'
+import content from '../site-content.json'
+import { PublicationBrowser } from '../content-browsers'
+export default function PublicationsPage() { return <><SiteHeader /><PageHero label="Research output" title="A record of discovery." text="Explore the complete supplied Google Scholar list: journal articles, conference papers, preprints, and patent records, with authors, venues, and publication links." /><main className="route-main"><div className="reference-stats">{content.stats.filter(s => !s.label.includes('Funding')).map(s => <div key={s.label}><strong>{s.value}</strong><span>{s.label}</span></div>)}</div><p className="record-note">Publication enquiries: Dr. Muhammad Owais. <a href="https://scholar.google.com/citations?user=bCC3kdUAAAAJ&hl=en" target="_blank" rel="noreferrer">View Google Scholar ↗</a></p><PublicationBrowser entries={content.publications} /></main><SiteFooter /></> }

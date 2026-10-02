@@ -1,0 +1,2454 @@
+{
+  "projects": [
+    {
+      "title": "T2FS (TactileThumbFirmSense) Device: A Wearable Thumb Device That is Capable of Sensing Fruit Firmness Using Vision-Based Tactile Sensors",
+      "text": "TouchRIPE is the UAE’s first wearable, non-destructive device for assessing fruit ripeness, developed, built and patented\\ at Khalifa University. It mimics human palpation to measure fruit firmness directly on the tree within seconds, enabling accurate harvest decisions, reducing post-harvest waste, and extending shelf life.",
+      "category": "Funded Projects",
+      "slug": "touchripe",
+      "images": [
+        "/images/projects/touchripe-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "PollenMatic: A Compact, Versatile and Low-Cost Device for Efficient Pollination in Greenhouse Cultivation",
+      "text": "PollenMATIC is a handheld artificial pollination solution designed to provide reliable and controlled pollination in greenhouse crops. The device generates bee-like vibrations that promote pollen release and transfer, helping to improve pollination consistency while reducing dependence on natural pollinators and manual methods",
+      "category": "Funded Projects",
+      "slug": "pollenmatic",
+      "images": [
+        "/images/projects/pollenmatic-1.jpeg"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Autonomous Weed Detection and Removal in Quinoa Crops.",
+      "text": "This project develops a modular, AI-enabled laser weeding system for precise, selective, and chemical-free weed management in quinoa cultivation. The system addresses limitations of manual, chemical, mechanical, and row-dependent robotic weeding by enabling targeted weed removal while reducing labor requirements, environmental impact, soil disturbance, and potential crop damage.",
+      "category": "Funded Projects",
+      "slug": "quinoa-laser-weeding",
+      "images": [
+        "/images/projects/quinoa-laser-weeding-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Robotics-Based Underwater Monitoring",
+      "text": "The project is developing a heterogeneous marine robotic system that integrates unmanned surface vehicles (USVs) and autonomous underwater vehicles (AUVs) for autonomous inspection and monitoring. By enabling collaboration between these platforms, the system will support persistent autonomy during long-duration marine missions while advancing sustainable ecosystem monitoring, particularly for coral reefs, biodiversity, and overall environmental health.",
+      "category": "Funded Projects",
+      "slug": "underwater-monitoring",
+      "images": [
+        "/images/projects/underwater-monitoring-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Smart AgriTech Drone for Automated Yield Estimation and Fruit Ripeness Analysis Using Advanced AI-Powered Precision Agriculture Techniques",
+      "text": "AerialYield is an AI powered precision agriculture platform designed to automate crop monitoring and yield estimation in greenhouse environments. It uses drone and field imagery with computer vision models to detect, count, and classify crops such as blueberries and tomatoes by ripeness stage. The results are integrated into a dashboard to support yield assessment, harvest planning, and data driven farm",
+      "category": "Funded Projects",
+      "slug": "aerialyield",
+      "images": [
+        "/images/projects/aerialyield-1.png",
+        "/images/projects/aerialyield-2.jpeg"
+      ],
+      "url": "https://aerialyield.com/"
+    },
+    {
+      "title": "Plant-AI An Advanced AI Powered Plant Scouting, Disease Detecting and Health Estimating Platform",
+      "text": "Plant-AI is a Platform, supporting a Mobile App which integrates with a Dashboard. Using Plant-AI Agronomist or Scouting Staff can capture Pictures and Other forms of Data inside various Crops, Plants in Greenhouses or Outdoor Farms. We incorporate SOTA AI Features including:•Advanced Vision Models•Detection Models•Multi-Modal Frameworks•Multi-Ai Agent FrameworksTo Address Plant Health. Primarily we now use Cameras for Analyzing Plant Leaf Health. We aim to use Mobile App Initially to Capture Data and using AI get results in Real-time and showcase all this data, and temporal information and AI based remedies & Suggestions on Greenhouse Monitoring Platform (Dashboard). The goal is Highly Accurate AI based Estimations/Results of Plant Health.This system is trained on real data from UAE based Greenhouses and is primarily built for the Gulf Region environment.",
+      "category": "Funded Projects",
+      "slug": "plant-ai",
+      "images": [
+        "/images/projects/plant-ai-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "The Application of Robotics and AI for Houbara Bustard Conservation",
+      "text": "The Houbara Robotics and AI Project develops biomimetic robotic systems and intelligent perception tools to support conservation, behavioural monitoring, and assisted breeding. It integrates HuBot, a bird semen collection device, computer vision, bird detection and tracking, vegetation classification, behavioural analysis, autonomous bird tracking, and long-range remote monitoring to enable safer and more efficient conservation operations.",
+      "category": "Funded Projects",
+      "slug": "houbara-conservation",
+      "images": [
+        "/images/projects/houbara-conservation-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "SortRIPE: AI-Powered Robotic Fruit Grading System",
+      "text": "The Fruit Sorting Robot is an intelligent robotic system designed for automated fruit ripeness classification and sorting. The robot integrates a depth camera for 3D visual perception and a robotic stretch arm equipped with a custom gripper and tactile sensor for ripeness assessment. It classifies fruits into categories such as Underripe, Ripe, and Overripe, ensuring accurate, non-destructive quality assessment.",
+      "category": "Research Projects",
+      "slug": "sortripe",
+      "images": [
+        "/images/projects/sortripe-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "TeleRIPE: Constraint-Aware Haptic Guidance for Safe Fruit Harvesting",
+      "text": "Fruit harvesting requires complex manipulation where fully autonomous robot learning risk violating safety constraints such as joint limits and self-collision. While human guidance can help, existing methods rarely provide clear haptic feedback that prevents issuing unsafe commands. We present a bilateral teleoperation framework that delivers transparent, constraint-aware haptic cues in human-guided robot learning: as the robot nears a safety boundary, a push–pull force is applied to the operator’s hand to discourage unsafe motions. This enables safer and more effective human demonstrations, helping robots learn complex harvesting behaviors while maintaining safety limits.",
+      "category": "Research Projects",
+      "slug": "teleripe-haptic-guidance",
+      "images": [
+        "/images/projects/teleripe-haptic-guidance-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "OmniRIPE: A Modular Tactile Device for Continuous Non-Destructive Fruit Firmness and Ripeness Assessment from Farm to Shelf",
+      "text": "OmniRIPE is a compact, modular fruit assessment device designed for fast, non-destructive firmness and ripeness evaluation from farm to shelf. Using controlled perpendicular palpation, vision-based tactile sensing, and AI, it delivers consistent results across handheld, conveyor, and retail applications, enabling objective harvest, sorting, quality, and shelf-life decisions throughout the supply chain.",
+      "category": "Research Projects",
+      "slug": "omniripe",
+      "images": [
+        "/images/projects/omniripe-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "HumaRipe: A See-Then-Touch Vision–Tactile Cascade for Robotic Tomato Ripeness Assessmenton a Humanoid Mobile Manipulator",
+      "text": "HumaRipe presents a humanoid mobile manipulation framework for autonomous tomato ripeness assessment in greenhouses. A see-then-touch cascade first uses RGB-D vision to locate and estimate fruit maturity, then dual-arm tactile interaction verifies ripeness. Omnidirectional mobility, LiDAR, and onboard cpu computing enable human-like perception, navigation, inspection, and reliable harvesting decisions.",
+      "category": "Research Projects",
+      "slug": "humaripe",
+      "images": [
+        "/images/projects/humaripe-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "PackRIPE : A Human-Inspired Tactile–Vision Robotic Framework for Postharvest Fruit Handling and Integrated Quality Assessment",
+      "text": "Quality-aware fruit handling is difficult because robots must localize produce and assess firmness during motion. PackRIPE is a human-inspired closed-loop tactile–vision framework combining AI-based perception, reinforcement-learning grasping, and tactile firmness estimation. Using robotic palpation data from 109 UAE tomatoes, it integrates inspection with handling to support packaging or rejection",
+      "category": "Research Projects",
+      "slug": "packripe",
+      "images": [
+        "/images/projects/packripe-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Teleoperated fruit firmness assessment and harvesting with haptic feedback for precision agriculture",
+      "text": "TeleRIPE is a VR-based robotic teleoperation system for remote fruit assessment and harvesting. It tracks the operator’s hand movements through a VR headset and WEART haptic gloves, enabling the robotic manipulator and gripper to follow the same movements in real time while providing tactile sensations for natural fruit interaction and ripeness assessment.",
+      "category": "Research Projects",
+      "slug": "teleripe-remote-harvesting",
+      "images": [
+        "/images/projects/teleripe-remote-harvesting-1.jpeg"
+      ],
+      "url": ""
+    },
+    {
+      "title": "HealthcareAI: LLM-Guided Medical Data Generation for Intelligent CAD and Clinical Analysis",
+      "text": "This project develops an LLM-guided framework for generating realistic, structured, and clinically meaningful multimodal medical data to overcome data scarcity in healthcare AI. By synthesizing annotated imaging datasets with controllable disease characteristics, it supports the development, training, validation, and benchmarking of advanced robust computer-aided diagnosis and medical data analysis systems.",
+      "category": "Research Projects",
+      "slug": "healthcare-ai",
+      "images": [
+        "/images/projects/healthcare-ai-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "LLM-Driven Multi-Modal System for Precision Ripeness Mapping and Predictive Harvest Planning in Indoor Densely Fruited Crops",
+      "text": "PhenoAgent is an LLM-driven multimodal system for precision ripeness mapping, yield estimation, and predictive harvest planning in indoor densely fruited crops. It integrates aerial, mobile, ground-based, and environmental sensing to provide adaptive crop monitoring, ripeness-aware yield prediction, actionable harvesting recommendations, and pre-harvest loss mitigation in GPS-denied farming environments.",
+      "category": "Research Projects",
+      "slug": "phenoagent",
+      "images": [
+        "/images/projects/phenoagent-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "ProAct-VLM: Pre-Failure Vision-Language Task Replanning with Continuous Perception Feedback",
+      "text": "ProAct-VLM is an adaptive task-planning framework for dynamic, long-horizon robotic manipulation. It integrates Vision-Language Models with a real-time perception–feedback loop to continuously monitor environmental changes and trigger replanning before failures occur. Evaluations across multiple VLM backbones demonstrate improved task success rates, adaptability, and execution efficiency compared with reactive planning approaches.",
+      "category": "PhD Student Projects",
+      "slug": "proact-vlm",
+      "images": [
+        "/images/projects/proact-vlm-1.png"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Coral-CRCA: A Color-Reference Chart Automation algorithm for coral bleaching visualization and severity assessment",
+      "text": "An algorithm that replicates the visual assessment process used by marine biologists to fully automate coral bleaching evaluation with color-reference charts. The method segments the coral, isolates CoralWatch quadrants, and assigns each coral pixel to the closest reference grade by color similarity, generating pixel-level bleaching visualizations and reporting bleaching percentage.",
+      "category": "PhD Student Projects",
+      "slug": "coral-crca",
+      "images": [
+        "/images/projects/coral-crca-1.png"
+      ],
+      "url": ""
+    }
+  ],
+  "people": [
+    {
+      "name": "Dr. M Owais",
+      "role": "Research Scientist",
+      "group": "Postdoctoral Fellows & Research Scientists",
+      "image": "/reference/images/Owais.png",
+      "url": "https://www.linkedin.com/in/muhammad-owais-371901b2/"
+    },
+    {
+      "name": "Dr. Muhayyuddin Ahmed",
+      "role": "Postdoctoral Fellow",
+      "group": "Postdoctoral Fellows & Research Scientists",
+      "image": "/reference/images/Dr.muhayyuddin.png",
+      "url": "https://www.linkedin.com/in/muhayy-ud-din-9a757a24/"
+    },
+    {
+      "name": "Dr. Iyyakutti Iyappan Ganapathi",
+      "role": "Postdoctoral Fellow",
+      "group": "Postdoctoral Fellows & Research Scientists",
+      "image": "",
+      "url": ""
+    },
+    {
+      "name": "Dr. Basit Alawode",
+      "role": "Postdoctoral Fellow",
+      "group": "Postdoctoral Fellows & Research Scientists",
+      "image": "/reference/images/Basit_Alawode.png",
+      "url": "https://www.linkedin.com/in/basit-alawode-127a9258/"
+    },
+    {
+      "name": "Dr. Ahmad Rehan",
+      "role": "Postdoctoral Fellow",
+      "group": "Postdoctoral Fellows & Research Scientists",
+      "image": "/reference/images/AhmedRehan.png",
+      "url": ""
+    },
+    {
+      "name": "Dr. Ahmad Abubakar",
+      "role": "Postdoctoral Fellow",
+      "group": "Postdoctoral Fellows & Research Scientists",
+      "image": "/reference/images/Ahmad Abubakar.jpg",
+      "url": "https://www.linkedin.com/in/ahmad-abubakar-ph-d-72a901209/"
+    },
+    {
+      "name": "Dr. Yusuf Abdullahi Adamu",
+      "role": "Postdoctoral Fellow",
+      "group": "Postdoctoral Fellows & Research Scientists",
+      "image": "/reference/images/Yusuf Profile photo.JPG",
+      "url": "https://www.linkedin.com/in/yusuf-abdullahi-adamu-8613b767/"
+    },
+    {
+      "name": "Dr. Mubarak Yakubu",
+      "role": "Postdoctoral Fellow",
+      "group": "Postdoctoral Fellows & Research Scientists",
+      "image": "/reference/images/Dr.Mubarak.png",
+      "url": "https://www.linkedin.com/in/mubarak-yakubu/"
+    },
+    {
+      "name": "Mr. Ahmad Adnan Aljarah",
+      "role": "Senior Research Engineer",
+      "group": "Research Associates, Engineers & Assistants",
+      "image": "",
+      "url": ""
+    },
+    {
+      "name": "Mr. Noureldin Mohamed Abdelazim ElHendawi",
+      "role": "Research Engineer",
+      "group": "Research Associates, Engineers & Assistants",
+      "image": "/reference/images/Noureldin.png",
+      "url": "https://www.linkedin.com/in/noureldinhendawi/"
+    },
+    {
+      "name": "Mr. Mashood Mohsan",
+      "role": "Research Associate",
+      "group": "Research Associates, Engineers & Assistants",
+      "image": "/reference/images/Mashood_Mohsan.jpg",
+      "url": "https://www.linkedin.com/in/mashood3624/"
+    },
+    {
+      "name": "Mr. Muhammad Fahad Nasir",
+      "role": "Research Associate",
+      "group": "Research Associates, Engineers & Assistants",
+      "image": "/reference/images/FahadNasir.png",
+      "url": "https://www.linkedin.com/in/muhammad-fahad-nasir/"
+    },
+    {
+      "name": "Mr. Ahsan B. Bakht",
+      "role": "Research Associate",
+      "group": "Research Associates, Engineers & Assistants",
+      "image": "/reference/images/Ahsan.png",
+      "url": "https://www.linkedin.com/in/ahsanbb/"
+    },
+    {
+      "name": "Mr. Yazid Musthafa",
+      "role": "Research Assistant",
+      "group": "Research Associates, Engineers & Assistants",
+      "image": "/reference/images/YazidMusthafa.png",
+      "url": "https://www.linkedin.com/in/yazid-musthafa/"
+    },
+    {
+      "name": "Ms. Afeefa Azam",
+      "role": "Research Assistant",
+      "group": "Research Associates, Engineers & Assistants",
+      "image": "/reference/images/Afeefa.png",
+      "url": "https://www.linkedin.com/in/afeefa-azam-68209924a/"
+    },
+    {
+      "name": "Ms. Meenakshi Jayakumar",
+      "role": "Research Assistant",
+      "group": "Research Associates, Engineers & Assistants",
+      "image": "/reference/images/Meenakshi Jayakumar.jpg",
+      "url": ""
+    },
+    {
+      "name": "Mr. Atif Sultan",
+      "role": "PhD Student",
+      "group": "PhD Students",
+      "image": "/reference/images/Atif PhD Student.jpeg",
+      "url": "https://www.linkedin.com/in/atif-sultan-8028b427b/"
+    },
+    {
+      "name": "Mr. Ahmed Nadir",
+      "role": "PhD Student",
+      "group": "PhD Students",
+      "image": "/reference/images/AhmedNader.png",
+      "url": "https://www.linkedin.com/in/ahmed-nader-mohammed-khair-a7aa12146/"
+    },
+    {
+      "name": "Mr. Muayad Abujabal",
+      "role": "PhD Student",
+      "group": "PhD Students",
+      "image": "",
+      "url": "https://www.linkedin.com/in/muayad-a-987396183/"
+    },
+    {
+      "name": "Mr. M Salman",
+      "role": "PhD Student",
+      "group": "PhD Students",
+      "image": "/reference/images/Salman.png",
+      "url": "https://www.linkedin.com/in/muhammad-salman-46a723128/"
+    },
+    {
+      "name": "Mr. Mahmoud S. Elmezain",
+      "role": "PhD Student",
+      "group": "PhD Students",
+      "image": "/reference/images/Mahmoud.png",
+      "url": "https://www.linkedin.com/in/mahmoud-said-elmezain-053617167/"
+    },
+    {
+      "name": "Mr. M.A. Mughni Irfan",
+      "role": "PhD Student",
+      "group": "PhD Students",
+      "image": "/reference/images/Mughni Irfan PhD Student.jpeg",
+      "url": "https://www.linkedin.com/in/mughni-irfan-mohammed-abdul-2bb676263/"
+    },
+    {
+      "name": "Mr. M Shafay",
+      "role": "PhD Student",
+      "group": "PhD Students",
+      "image": "/reference/images/Shafay.png",
+      "url": "https://www.linkedin.com/in/muhammad-shafay-a3238aab/"
+    },
+    {
+      "name": "Dr. Rajmeet Singh",
+      "role": "Post-doctoral Fellow",
+      "group": "Alumni & former members",
+      "image": "/reference/images/Rajmeet.png",
+      "url": "https://www.linkedin.com/in/rajmeet-singh-54314b1a4/"
+    },
+    {
+      "name": "Dr. Kshetrimayum Lochan",
+      "role": "Post-doctoral Fellow",
+      "group": "Alumni & former members",
+      "image": "/reference/images/Lochan.png",
+      "url": "https://www.linkedin.com/in/kshetrimayum-lochan-41706874/"
+    },
+    {
+      "name": "Dr. Binzhao Xu",
+      "role": "Post-doctoral Fellow",
+      "group": "Alumni & former members",
+      "image": "",
+      "url": "https://www.linkedin.com/in/binzhao-xu-6b2367177/"
+    },
+    {
+      "name": "Ms. Basma Bashir",
+      "role": "Research Associate",
+      "group": "Alumni & former members",
+      "image": "",
+      "url": "https://www.linkedin.com/in/basma-bashir-71215b115/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Drone carrier: An integrated unmanned surface vehicle for autonomous inspection and intervention in GNSS-denied maritime environment",
+      "authors": "Y Dong, MU Din, F Lagala, H Kuang, J Sun, S Yang, I Hussain, S He",
+      "venue": "Journal of Ocean Engineering and Science , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:F1b5ZUV5XREC"
+    },
+    {
+      "title": "Vision-language models for zero-shot weed detection and visual reasoning in UAV-based precision agriculture",
+      "authors": "MF Nasir, MU Rehman, I Hussain",
+      "venue": "Frontiers in Plant Science 16, 1735096 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:Wq2b2clWBLsC"
+    },
+    {
+      "title": "A multiscale physics-informed framework for robust no-reference underwater image quality evaluation",
+      "authors": "MU Rehman, Z Abbas, MF Nasir, I Hussain",
+      "venue": "Alexandria Engineering Journal 135, 114-125 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:T_ojBgVMvoEC"
+    },
+    {
+      "title": "SAMConvFormer+ LLM: Exploring synergistic fusion of Segment Anything Model with joint convolutional transformer and large language model to advance dense agricultural crop analysis",
+      "authors": "M Owais, I Fahmy, L Seneviratne, I Hussain",
+      "venue": "Computers and Electronics in Agriculture 240, 111192 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:aIdbFUkbNIkC"
+    },
+    {
+      "title": "Coral-CRCA: A Color-Reference Chart Automation algorithm for coral bleaching visualization and severity assessment",
+      "authors": "M Elmezain, A Sultan, MU Rehman, S Alshehhi, MR Al Shehhi, I Hussain",
+      "venue": "Marine Pollution Bulletin 226, 119384 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:NxmKEeNBbOMC"
+    },
+    {
+      "title": "YOLOv8-PnP fusion architecture for non-contact robotic pollination: a 6D pose estimation approach for autonomous greenhouse operations",
+      "authors": "R Singh, M Kaur, AM Gadade, I Hussain",
+      "venue": "Frontiers in Plant Science 17, 1771732 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:CNPyR2KL9-0C"
+    },
+    {
+      "title": "Onto-LLM-TAMP: knowledge-oriented task and motion planning using large language models",
+      "authors": "MU Din, J Rosell, W Akram, I Zaplana, MA Roa, I Hussain",
+      "venue": "Robotics and Autonomous Systems, 105404 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:Hck25ST_3aIC"
+    },
+    {
+      "title": "Design, Modeling, Evaluation, and Control of a Compact Discrete Variable Stiffness Actuator",
+      "authors": "I Hussain, M Turki Almansoori, K Tamaizi, A Albalasie, Z Niu, D Gan",
+      "venue": "Journal of Mechanisms and Robotics 18 (2), 020903 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:Dem6FJhTUoYC"
+    },
+    {
+      "title": "An end-to-end vision–language framework with LLM-based reasoning for decision-oriented tomato leaf disease management in greenhouse environments",
+      "authors": "M Shafay, D Velayudhan, M Owais, T Hassan, L Seneviratne, I Hussain, ...",
+      "venue": "Computers and Electronics in Agriculture 247, 111692 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:RuPIJ_LgqDgC"
+    },
+    {
+      "title": "Synergistic fusion of a multilevel visual transformer in CNN for variable-length volumetric radiographic data analysis and content-based retrieval",
+      "authors": "M Owais, M Zubair, T Hassan, D Velayudhan, N Werghi, I Hussain",
+      "venue": "Scientific Reports , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:ubry08Y2EpUC"
+    },
+    {
+      "title": "Sensitivity-driven deep learning model for tribological prediction in Al7075/B4C nanocomposites",
+      "authors": "R Kumbhar, R Singh, AM Gadade, DR Kumar, I Hussain",
+      "venue": "Journal of Materials Research and Technology , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:hGdtkIFZdKAC"
+    },
+    {
+      "title": "Prioritized Real‐Time UAV‐Based Vessel Detection for Efficient Maritime Search",
+      "authors": "L Saad Saoud, Z Jia, S Yang, MU Din, L Seneviratne, S He, I Hussain",
+      "venue": "Journal of Field Robotics 43 (2), 561-577 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:XUvXOeBm_78C"
+    },
+    {
+      "title": "Hyper-dimensional computing architectures for AI applications: A comprehensive survey of principles, performance, and future prospects",
+      "authors": "AY Salik, M Shafay, M Owais, SG Khawaja, S Khalid, I Hussain, T Hassan",
+      "venue": "Results in Engineering, 109589 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:EsEWqaRxkBgC"
+    },
+    {
+      "title": "LLM-VLM Fusion Framework for Autonomous Maritime Port Inspection using a Heterogeneous UAV-USV System",
+      "authors": "MU Din, W Akram, AB Bakht, I Hussain",
+      "venue": "arXiv preprint arXiv:2601.13096 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:MIg0yeAD4ggC"
+    },
+    {
+      "title": "Second-order non-singular terminal sliding mode barrier function-based adaptive robust tip trajectory tracking of a two-link flexible manipulator",
+      "authors": "K Lochan, BK Roy, B Subudhi, I Hussain",
+      "venue": "Systems Science & Control Engineering 14 (1), 2671521 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:TaaCk18tZOkC"
+    },
+    {
+      "title": "Coupled Lie symmetry reductions and Physics-Informed Neural Network validation for flow and heat transfer in Maxwell liquid film",
+      "authors": "M Safdar, MAZ Ghauri, S Taj, N Afzal, I Hussain",
+      "venue": "International Communications in Heat and Mass Transfer 178, 111586 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:_AeoHAGD03cC"
+    },
+    {
+      "title": "AGRI-BT Robot: LLM-Driven Behaviour Trees and VLM Perception for Intelligent Autonomous Greenhouse Operations",
+      "authors": "M Salman, MU Din, I Hussain",
+      "venue": "Smart Agricultural Technology, 102298 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:nqdriD65xNoC"
+    },
+    {
+      "title": "Enhancing Path Following of Underactuated Water-Cleaning ASVs Using Adaptive MPC: Real-Time Parameter Estimation and Sensitivity Analysis in Dynamic Marine Environments",
+      "authors": "A Saad, DT Nguyen, W Akram, S Garg, I Hussain",
+      "venue": "IEEE Journal of Oceanic Engineering , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:jtI9f0ekYq0C"
+    },
+    {
+      "title": "Edge-enabled Electrical Meter Reading via Deep Learning-based Object Detection Paradigm",
+      "authors": "H Anwar, F Ullah, MM Shahid, I Syed, L Ali, I Hussain",
+      "venue": "Results in Engineering, 111377 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:X0DADzN9RKwC"
+    },
+    {
+      "title": "Patch-level colorimetric quantification of coral bleaching for marine pollution monitoring using standardized CoralWatch references",
+      "authors": "LS Saoud, I Hussain",
+      "venue": "Marine Pollution Bulletin 227, 119480 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:ZqE1mSdD_DYC"
+    },
+    {
+      "title": "YOLO26-RipeLoc Lite: A lightweight architecture for tomato ripeness detection and picking point localization in greenhouse robotic harvesting",
+      "authors": "R Singh, M Kaur, S Alirezaee, I Hussain",
+      "venue": "arXiv preprint arXiv:2605.27129 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:s85pQhAUCrAC"
+    },
+    {
+      "title": "SegRAG: Training-Free Retrieval-Augmented Semantic Segmentation",
+      "authors": "A Boudiaf, I Hussain, S Javed",
+      "venue": "arXiv preprint arXiv:2605.17630 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:LK8CI43ZvvMC"
+    },
+    {
+      "title": "Ultra‐Low Intensity Continuous Wave Laser Ablation Propulsion With Graphene‐Engineered Wood",
+      "authors": "ASM Elmubasher, R Elkaffas, MH Salim, B Altawil, C Sandaruwan, ...",
+      "venue": "Advanced Science, e75463 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:zUl2_INMlC4C"
+    },
+    {
+      "title": "Epidermis-mimetic graphene architectures for high-performance piezoresistive sensing in robotics",
+      "authors": "R Chang, A Solayman, I Mohamed Zaid, M Mohsan, R Singh Bhourji, ...",
+      "venue": "Advanced Composites and Hybrid Materials , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:YTuZlYwrTOUC"
+    },
+    {
+      "title": "Color-Glove-Assisted Recognition of Pakistan Sign Language Alphabets Using Geometrical Features",
+      "authors": "S Farooq, F Shah, W Akram, SM Saqlain, A Mahmood, I Hussain",
+      "venue": "IEEE Access , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:t-hv7AR41mYC"
+    },
+    {
+      "title": "DeepAquaEnhance: Hierarchical multi-head attention and adaptive feature fusion for underwater image enhancement",
+      "authors": "MU Rehman, AB Bakht, I Hussain",
+      "venue": "Ecological Informatics, 103771 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:BJrgspguQaEC"
+    },
+    {
+      "title": "Infinite-rotation infinite-stiffness variable stiffness actuator (IRISVSA) with application for compliant supernumerary robotic limb",
+      "authors": "MI AWAD, MA RAMADAN, BBM HASANEN, I HUSSAIN, SM Seneviratne",
+      "venue": "US Patent 12,605,855 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:Bg7qf7VwUHIC"
+    },
+    {
+      "title": "Wearable device using vision-based tactile sensors to detect object firmness",
+      "authors": "MM Mohsan, BBM HASANEN, I HUSSAIN, N Werghi, L Seneviratne, ...",
+      "venue": "US Patent App. 18/908,435 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:hQUaER0FWQ4C"
+    },
+    {
+      "title": "Fault-tolerant control of quadrotor unmanned aerial vehicle by using adaptive fuzzy TS and linear matrix inversion approach",
+      "authors": "M Taimoor, H Wang, S Bibi, C Sheng, UH Shah, X Lu, Z Zhang, I Hussain",
+      "venue": "Scientific Reports , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:YB4bud6kWLwC"
+    },
+    {
+      "title": "The intricate dance of emotions and psychophysiology: unveiling the secrets of microexpressions",
+      "authors": "J Singh, D Sharma, B Shah, SS Sehra, F Ali, I Hussain",
+      "venue": "PeerJ Computer Science 12, e3420 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:s9ia6_kGH2AC"
+    },
+    {
+      "title": "A Novel Hybrid PID-LQR Controller for Sit-To-Stand Assistance Using a CAD-Integrated Simscape Multibody Lower Limb Exoskeleton",
+      "authors": "R Kumbhar, R Singh, AM Gadade, A Singla, I Hussain",
+      "venue": "arXiv preprint arXiv:2604.03766 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:mel-f30kHHgC"
+    },
+    {
+      "title": "Linguistic Capital and Symbolic Violence in Pakistan: A Sociolinguistic Analysis of Language Attitudes Towards Urdu and English",
+      "authors": "H Khan, I Hussain",
+      "venue": "International Journal of Research and Innovation in Social Science (IJRISS … , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:lYAcb2jw7qUC"
+    },
+    {
+      "title": "Self-Supervised Plankton Classification via DINO and Gradient-Based Loss Re-weighting",
+      "authors": "A Ahmad, Z Habash, A Ahmad, M Alradi, A Boudiaf, N Werghi, M Owais, ...",
+      "venue": "",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:KWzIFqRkAKkC"
+    },
+    {
+      "title": "Progressive Layer Activation CLIP for Few-Shot and Generalizable Cassava Disease Recognition",
+      "authors": "M Shafay, M Owais, D Velayudhan, T Hassan, I Hussain, N Werghi",
+      "venue": "",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:-uzm3Y7AvW0C"
+    },
+    {
+      "title": "AgriChat: A Multimodal Large Language Model for Agriculture Image Understanding",
+      "authors": "A Boudiaf, I Hussain, S Javed",
+      "venue": "arXiv preprint arXiv:2603.16934 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:hvmnpdAuIbkC"
+    },
+    {
+      "title": "MUOT_3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method",
+      "authors": "AB Bakht, M Alansari, MU Din, M Naseer, S Javed, I Hussain, J Matas, ...",
+      "venue": "arXiv preprint arXiv:2602.18006 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:zwpXiJ37cpgC"
+    },
+    {
+      "title": "HBID24K: A New Benchmark Dataset for Vulnerable Houbara Bustard and Intruder Detection in Wildlife Monitoring",
+      "authors": "SS Ali, SD Ali, S Javed, S Mudigansalage, I Hussain, C Lucas, ...",
+      "venue": "Scientific data 13 (1), 223 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:unp9ATQDT5gC"
+    },
+    {
+      "title": "Lang2manip: A Tool for LLM-Based Symbolic-To-Geometric Planning for Manipulation",
+      "authors": "MU Din, J Rosell, W Akram, I Hussain",
+      "venue": "2026 12th International Conference on Automation, Robotics and Applications … , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:C33y2ycGS3YC"
+    },
+    {
+      "title": "AquaChat plus plus: LLM-assisted multi-ROV inspection for aquaculture net pens with integrated battery management and thruster fault tolerance",
+      "authors": "A Saad, W Akram, I Hussain",
+      "venue": "OCEAN ENGINEERING 343 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:-6RzNnnwWf8C"
+    },
+    {
+      "title": "Large scale analysis of dataset and simulation biases in SLAM research: M. Anjum et al.",
+      "authors": "ML Anjum, W Hussain, U Mudassar, SAH Bukhari, AA Qureshi, I Hussain",
+      "venue": "Scientific Reports , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:D_tqNUsBuKoC"
+    },
+    {
+      "title": "for Efficient Underwater Image Enhancement and Coral Reef Monitoring",
+      "authors": "LS Saoud, I Hussain",
+      "venue": "AI Revolution: Research, Ethics and Society: International Conference, AIR … , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:tHtfpZlB6tUC"
+    },
+    {
+      "title": "Leveraging Deep Learning for Plant Disease and Pest Detection: A Comprehensive Review and Future Directions",
+      "authors": "M Shoaib, A Sadeghi-Niaraki, F Ali, I Hussain, S Khalid",
+      "venue": "Frontiers in Plant Science 16, 1538163 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:sJsF-0ZLhtgC"
+    },
+    {
+      "title": "Advancing underwater vision: A survey of deep learning models for underwater object recognition and tracking",
+      "authors": "M Elmezain, LS Saoud, A Sultan, M Heshmat, L Seneviratne, I Hussain",
+      "venue": "IEEE Access 13, 17830-17867 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:2tRrZ1ZAMYUC"
+    },
+    {
+      "title": "Recent advances in plant disease detection: challenges and opportunities",
+      "authors": "M Shafay, T Hassan, M Owais, I Hussain, SG Khawaja, L Seneviratne, ...",
+      "venue": "Plant Methods 21 (1), 140 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:jFemdcug13IC"
+    },
+    {
+      "title": "Vision language action models in robotic manipulation: A systematic review",
+      "authors": "MU Din, W Akram, LS Saoud, J Rosell, I Hussain",
+      "venue": "arXiv preprint arXiv:2507.10672 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:IaI1MmNe2tcC"
+    },
+    {
+      "title": "An interpretable framework for gastric cancer classification using multi-channel attention mechanisms and transfer learning approach on histopathology images",
+      "authors": "M Zubair, M Owais, T Hassan, M Bendechache, M Hussain, I Hussain, ...",
+      "venue": "Scientific Reports 15 (1), 13087 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:OP4eGU-M3BUC"
+    },
+    {
+      "title": "Underwater SLAM meets deep learning: challenges, multi-sensor integration, and future directions",
+      "authors": "M Heshmat, L Saad Saoud, M Abujabal, A Sultan, M Elmezain, ...",
+      "venue": "Sensors 25 (11), 3258 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:BzfGm06jWhQC"
+    },
+    {
+      "title": "The Convergence of AI and animal-inspired robots for ecological conservation",
+      "authors": "N Afzal, M ur Rehman, L Seneviratne, I Hussain",
+      "venue": "Ecological Informatics 85, 102950 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:lvd772isFD0C"
+    },
+    {
+      "title": "Multi-convolutional neural networks for cotton disease detection using synergistic deep learning paradigm",
+      "authors": "A Aslam, SM Usman, M Zubair, A Yasin, M Owais, I Hussain",
+      "venue": "Plos one 20 (5), e0324293 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:v1_lew4L6wgC"
+    },
+    {
+      "title": "Structural topology optimization of aircraft wing leading edge fabricated of multilayer composites",
+      "authors": "Y Dong, I Hussain, S He",
+      "venue": "Aerospace Science and Technology 159, 109993 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:4X0JR2_MtJMC"
+    },
+    {
+      "title": "Maritime mission planning for unmanned surface vessel using large language model",
+      "authors": "MU Din, W Akram, AB Bakht, Y Dong, I Hussain",
+      "venue": "2025 IEEE International Conference on Simulation, Modeling, and Programming … , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:48xauSegjOkC"
+    },
+    {
+      "title": "Multimodal fusion with vision-language-action models for robotic manipulation: A systematic review",
+      "authors": "MU Din, W Akram, LS Saoud, J Rosell, I Hussain",
+      "venue": "Information Fusion, 104062 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:RJOyoaXV5v8C"
+    },
+    {
+      "title": "Robust control of a compliant manipulator with reduced dynamics and sliding perturbation observer",
+      "authors": "M Salman, Z Niu, R Singh, L Kshetrimayum, I Hussain",
+      "venue": "Scientific Reports 15 (1), 8934 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:CaZNVDsoPx4C"
+    },
+    {
+      "title": "Adaptive global super-twisting sliding mode control for trajectory tracking of two-link flexible manipulators",
+      "authors": "K Lochan, L Seneviratne, I Hussain",
+      "venue": "IEEE Access , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:1lhNe0rCu4AC"
+    },
+    {
+      "title": "AquaChat: An LLM-guided ROV framework for adaptive inspection of aquaculture net pens",
+      "authors": "W Akram, MU Din, A Saad, I Hussain",
+      "venue": "Aquacultural Engineering, 102607 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:WHdLCjDvYFkC"
+    },
+    {
+      "title": "A review of generative AI in aquaculture: Applications, case studies and challenges for smart and sustainable farming",
+      "authors": "W Akram, MU Din, LS Saoud, I Hussain",
+      "venue": "Aquacultural Engineering, 102637 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:q-HalDI95KYC"
+    },
+    {
+      "title": "Visual-language transformer-based tomato leaf disease detection for portable greenhouse monitoring device",
+      "authors": "M Kaur, R Singh, S Alirezaee, I Hussain",
+      "venue": "Plant Methods 21 (1), 139 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:MhiOAD_qIWkC"
+    },
+    {
+      "title": "Robust pollination for tomato farming using deep learning and visual servoing",
+      "authors": "R Singh, L Seneviratne, I Hussain",
+      "venue": "Robotica 43 (1), 86-109 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:nZcligLrVowC"
+    },
+    {
+      "title": "A comprehensive review tracing the evolution of volumetric medical imaging analysis from classic CNNs to emerging AI-agents",
+      "authors": "M Owais, M Zubair, DNA Kareem, SA Naseer, M Alam, M Ahmad, ...",
+      "venue": "TechRxiv 2025 (0910) , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:AXkvAH5U_nMC"
+    },
+    {
+      "title": "A self-attention guided approach for advanced underwater image super-resolution with depth awareness",
+      "authors": "MF Nasir, MU Rehman, I Hussain",
+      "venue": "IEEE Open Journal of the Computer Society , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:sszUF3NjhM4C"
+    },
+    {
+      "title": "Dual-model approach for accurate chest disease detection using GViT and swin transformer V2",
+      "authors": "K Ahmad, HU Rehman, B Shah, F Ali, I Hussain",
+      "venue": "Scientific Reports 15 (1), 31717 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:CB2v5VPnA5kC"
+    },
+    {
+      "title": "An Aerial Transport System in Marine GNSS‐Denied Environment",
+      "authors": "J Sun, Z Niu, Y Dong, F Zhang, MU Din, L Seneviratne, D Lin, I Hussain, ...",
+      "venue": "Journal of Field Robotics 42 (5), 2192-2217 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:F9fV5C73w3QC"
+    },
+    {
+      "title": "SwishFormer for robust firmness and ripeness recognition of fruits using visual tactile imagery",
+      "authors": "MM Mohsan, BB Hasanen, T Hassan, MU Din, N Werghi, L Seneviratne, ...",
+      "venue": "Postharvest Biology and Technology 225, 113487 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:otzGkya1bYkC"
+    },
+    {
+      "title": "Conditional variational auto encoder based dynamic motion for multitask imitation learning",
+      "authors": "B Xu, M Ud Din, I Hussain",
+      "venue": "Scientific Reports 15 (1), 9196 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:LO7wyVUgiFcC"
+    },
+    {
+      "title": "Robust real-time strawberry maturity detection using UAV-mounted deep learning for precision agriculture",
+      "authors": "R Singh, AM Gadade, I Hussain",
+      "venue": "BMC Plant Biology 25 (1), 1367 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:QyXJ3EUuO1IC"
+    },
+    {
+      "title": "Aerial manipulation of long objects using adaptive neuro-fuzzy controller under battery variability",
+      "authors": "PK Muthusamy, MB Mohiuddin, A Peringal, B Suthar, R Muthusamy, ...",
+      "venue": "Scientific Reports 15 (1), 10941 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:ALROH1vI_8AC"
+    },
+    {
+      "title": "A wearable thumb device for fruit firmness estimation with vision-based tactile sensing",
+      "authors": "MM Mohsan, BB Hasanen, T Hassan, L Seneviratne, I Hussain",
+      "venue": "Computers and Electronics in Agriculture 237, 110593 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:PaBasH6fAo0C"
+    },
+    {
+      "title": "Improving knee joint angle prediction through dynamic contextual focus and gated linear units",
+      "authors": "LS Saoud, H Ibrahim, A Aljarah, I Hussain",
+      "venue": "Computers in Biology and Medicine 197, 111119 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:uDGL6kOW6j0C"
+    },
+    {
+      "title": "Aquachat++: Llm-assisted multi-rov inspection for aquaculture net pens with integrated battery management and thruster fault tolerance",
+      "authors": "A Saad, W Akram, I Hussain",
+      "venue": "arXiv preprint arXiv:2508.06554 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:z6xuaG2dYH0C"
+    },
+    {
+      "title": "FSID: a novel approach to human activity recognition using few-shot weight imprinting",
+      "authors": "M Belal, T Hassan, A Hassan, D Velayudhan, N Elhendawi, A Aljarah, ...",
+      "venue": "Scientific Reports 15 (1), 20865 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:vDZJ-YLwNdEC"
+    },
+    {
+      "title": "Towards smart farming: a real-time diagnosis system for strawberry foliar diseases using deep learning",
+      "authors": "A Khan, R Singh, SU Khan, I Hussain",
+      "venue": "BMC Plant Biology , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:2ywjKiB__4kC"
+    },
+    {
+      "title": "Autonomous robotic systems for coral reef monitoring: Review and open research issues",
+      "authors": "A Sultan, LS Saoud, M Elmezain, M Heshmat, L Seneviratne, I Hussain",
+      "venue": "Ecological Informatics, 103511 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:sA9dB-pw3HoC"
+    },
+    {
+      "title": "Help me through: Imitation learning based active view planning to avoid slam tracking failures",
+      "authors": "K Naveed, W Hussain, I Hussain, D Lee, ML Anjum",
+      "venue": "IEEE Transactions on Robotics , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:nRpfm8aw39MC"
+    },
+    {
+      "title": "Adaptation robotics and cognitive load: Use of a supernumerary finger for activities of daily living",
+      "authors": "R Katmah, MI Awad, F Al-Ani, M Khan, FA Alskafi, I Hussain, HF Jelinek, ...",
+      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:U4n9YNQMCAIC"
+    },
+    {
+      "title": "Eba-ai: Ethics-guided bias-aware ai for efficient underwater image enhancement and coral reef monitoring",
+      "authors": "L Saad Saoud, I Hussain",
+      "venue": "International Conference on the AI Revolution, 473-487 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:1taIhTC69MYC"
+    },
+    {
+      "title": "AgriVision: A Benchmark Dataset for Advancing Real-World Robotic Vision in Densely Fruited Blueberry Crop",
+      "authors": "M Owais, M Shafay, M Zubair, S Mohammed, L Seneviratne, I Hussain",
+      "venue": "Scientific data , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:isU91gLudPYC"
+    },
+    {
+      "title": "A Heterogeneous Multirobot System for Autonomous Object Retrieval in Challenging GNSS‐Denied Maritime Environment",
+      "authors": "Q Chen, M Irfan, Q Yu, J Sun, MU Din, D Lin, Y Dong, S He, I Hussain",
+      "venue": "Journal of Field Robotics 42 (8), 4288-4310 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:DJbcl8HfkQkC"
+    },
+    {
+      "title": "Kinematic integration network with enhanced temporal intelligence and quality-driven attention for precise joint angle prediction in exoskeleton-based gait analysis",
+      "authors": "LS Saoud, I Hussain",
+      "venue": "IEEE Access , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:bz8QjSJIRt4C"
+    },
+    {
+      "title": "Sensory substitution device for time presentation: spatial-temporal vibrotactile encoding for presenting time on the human wrist",
+      "authors": "N Afzal, I Hussain, Z Zhou, D Prattichizzo, L Seneviratne, Y Zhang, ...",
+      "venue": "IEEE Access , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:buQ7SEKw-1sC"
+    },
+    {
+      "title": "HuBot: A biomimicking mobile robot for non-disruptive bird behavior study",
+      "authors": "LS Saoud, L Lesobre, E Sorato, S Al Qaydi, Y Hingrat, L Seneviratne, ...",
+      "venue": "Ecological Informatics 85, 102939 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:gVv57TyPmFsC"
+    },
+    {
+      "title": "Adaptive Fault-Tolerant Thrust Allocation for Underwater Vehicles With Resource Constraints",
+      "authors": "W Akram, MU Din, T Taha, I Hussain",
+      "venue": "IEEE Access 14, 1341-1357 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:L_l9e5I586QC"
+    },
+    {
+      "title": "LSTM-enhanced predictive display for wireless underwater teleoperation under time delays",
+      "authors": "M ElMezain, S Iacoponi, F Zayer, I Hussain, F Renda, G De Masi, J Dias",
+      "venue": "OCEANS 2025 Brest, 1-9 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:wKETBy42zhYC"
+    },
+    {
+      "title": "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking",
+      "authors": "AB Bakht, MU Din, S Javed, I Hussain",
+      "venue": "arXiv preprint arXiv:2506.02866 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:kVjdVfd2voEC"
+    },
+    {
+      "title": "A comprehensive review of current robot-based pollinators for crop pollination",
+      "authors": "R Singh, L Seneviratne, I Hussain",
+      "venue": "Artificial Intelligence Review 59 (1), 26 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:SIv7DqKytYAC"
+    },
+    {
+      "title": "A Deep Straw Network for Strawberry Leaf Disease Detection",
+      "authors": "A Khan, K Lochan, Y Zweiri, I Hussain",
+      "venue": "Smart Agricultural Technology, 101437 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:silx2ntsSuwC"
+    },
+    {
+      "title": "FishDet-M: A Unified Large-Scale Benchmark for Robust Fish Detection and CLIP-Guided Model Selection in Diverse Aquatic Visual Domains",
+      "authors": "M Abujabal, LS Saoud, I Hussain",
+      "venue": "arXiv preprint arXiv:2507.17859 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:WC23djZS0W4C"
+    },
+    {
+      "title": "AttnW2V-Enhancer: Leveraging attention and Word2Vec for enhanced enhancer prediction",
+      "authors": "MU Rehman, Z Abbas, F Ullah, I Hussain",
+      "venue": "Computational and Structural Biotechnology Journal , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:kw52XkFRtyQC"
+    },
+    {
+      "title": "A Review of Generative AI in Aquaculture: Foundations, Applications, and Future Directions for Smart and Sustainable Farming",
+      "authors": "W Akram, MU Din, LS Soud, I Hussain",
+      "venue": "arXiv preprint arXiv:2507.11974 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:FiytvqdAVhgC"
+    },
+    {
+      "title": "Multiscale convolutional transformer for robust detection of aquaculture defects",
+      "authors": "W Khan, T Hassan, MU Rehman, M Alsaffar, I Hussain",
+      "venue": "Expert Systems with Applications 273, 126820 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:PVgj2kMGcgYC"
+    },
+    {
+      "title": "Soft Vision-Based Tactile-Enabled SixthFinger: Advancing Daily Objects Manipulation for Stroke Survivors",
+      "authors": "B Hasanen, MM Mohsan, AY Alkayas, F Renda, I Hussain",
+      "venue": "2025 IEEE 8th International Conference on Soft Robotics (RoboSoft), 1-8 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:BJbdYPG6LGMC"
+    },
+    {
+      "title": "Robotic manipulator with camera and tactile sensing",
+      "authors": "R MUTHUSAMY, H Alyammahi, MUH Shah, OF Faris, I HUSSAIN, ...",
+      "venue": "US Patent 12,280,495 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:0KyAp5RtaNEC"
+    },
+    {
+      "title": "Prioritized Real-Time UAV-based Vessel Detection for Efficient Maritime Search",
+      "authors": "LS Saoud, Z Jia, S Yang, MU Din, L Seneviratne, S He, I Hussain",
+      "venue": "",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:yFnVuubrUp4C"
+    },
+    {
+      "title": "LiDAR-Based Autonomous Docking System for Uncooperative Vessels in GNSS-Denied Environments Using a Size-Adaptive Dubins Path",
+      "authors": "H Kuang, M Basri, S Yang, X He, MU Din, L Seneviratne, I Hussain, D Lin, ...",
+      "venue": "IEEE Journal of Oceanic Engineering 51 (1), 194-206 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:AYInfyleIOsC"
+    },
+    {
+      "title": "Active vision-based real-time aquaculture net pens inspection using ROV",
+      "authors": "W Akram, MU Din, M Heshmat, A Casavola, L Seneviratne, I Hussain",
+      "venue": "Scientific Reports 15 (1), 32690 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:-7ulzOJl1JYC"
+    },
+    {
+      "title": "Optimized knee exoskeleton with tunable compliance for rehabilitation and assistance",
+      "authors": "AA Aljarah, I HUSSAIN, L ABUASSI, Y Zweiri",
+      "venue": "US Patent App. 19/063,632 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:yxmsSjX2EkcC"
+    },
+    {
+      "title": "Insight into the interaction of isochroman with bovine serum albumin: extensive experimental and computational investigations",
+      "authors": "S Fatima, I Hussain, S Ahmed, MA Afaq, M Tabish",
+      "venue": "Journal of Biomolecular Structure and Dynamics 43 (12), 5671-5685 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:__bU50VfleQC"
+    },
+    {
+      "title": "Position estimation and formation control using distance and partial state measurements",
+      "authors": "J Sun, D Lin, I Hussain, L Seneviratne, S He",
+      "venue": "Automatica 178, 112374 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:jgBuDB5drN8C"
+    },
+    {
+      "title": "Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger",
+      "authors": "N Afzal, B Hasanen, L Seneviratne, O Khatib, I Hussain",
+      "venue": "arXiv preprint arXiv:2503.15447 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:lgwcVrK6X84C"
+    },
+    {
+      "title": "Design and fabrication of foam-filled topology optimized composite structures using an improved non-monotonic interpolation function",
+      "authors": "Y Dong, Y Yu, P Hong, X Gu, J Qu, S He, MU Din, I Hussain",
+      "venue": "Applications in Engineering Science 21, 100205 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:wMgC3FpKEyYC"
+    },
+    {
+      "title": "CLIP-LLM: A Framework for Autonomous Plant Disease Management in Greenhouse",
+      "authors": "M Salman, MU Din, I Hussain",
+      "venue": "Proceedings of the International Conference on Informatics in Control … , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:qwy9JoKyICEC"
+    },
+    {
+      "title": "Gated Fusion Network with Reprogramming Transformer Refiners For Adaptive Underwater Image Dehazing",
+      "authors": "L Saad Saoud, I Hussain",
+      "venue": "Available at SSRN 5297591 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:MpfHP-DdYjUC"
+    },
+    {
+      "title": "Design and Validation of a Knee Exoskeleton with Tunable Compliance for Gait Rehabilitation",
+      "authors": "A Aljarah, L AbuAssi, Y Zweiri, A Abusafieh, I Hussain",
+      "venue": "Available at SSRN 5107455 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:Ak0FvsSvgGUC"
+    },
+    {
+      "title": "Real-time slip detection with friction-scaled vibrotactile feedback for robotic sixth-finger-assisted manipulation",
+      "authors": "N Afzal, B Hasanen, L Seneviratne, O Khatib, I Hussain",
+      "venue": "Robotica, 1-22 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:hSRAE-fF4OAC"
+    },
+    {
+      "title": "Manifestation-Aware Contrastive Learning for Cross-Domain Tomato Disease Classification with Limited Data",
+      "authors": "M Shafay, D Velayudhan, SB Abbes, T Hassan, I Hussain, N Werghi",
+      "venue": "2025 IEEE International Conference on Advances in Data-Driven Analytics And … , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:Zh0EY9V9P6UC"
+    },
+    {
+      "title": "Compliant Robotic Biceps Machine for Resistance Training and Upper Limb Rehabilitation",
+      "authors": "MI Awad, N Al-Rahmani, Z Nui, B Suthar, MF Domingues, I Hussain, ...",
+      "venue": "IEEE Access , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:-jrNzM816MMC"
+    },
+    {
+      "title": "Bio-Inspired Robotic Houbara: From Development to Field Deployment for Behavioral Studies",
+      "authors": "LS Saoud, I Hussain",
+      "venue": "arXiv preprint arXiv:2510.04692 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:HGTzPopzzJcC"
+    },
+    {
+      "title": "Real-Time Threaded Houbara Detection and Segmentation for Wildlife Conservation using Mobile Platforms",
+      "authors": "LS Saoud, L Lesobre, E Sorato, I Hussain",
+      "venue": "arXiv preprint arXiv:2510.03501 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:MAUkC_7iAq8C"
+    },
+    {
+      "title": "Cross-Domain Tomato Disease Classification via Flexible Contrastive Clustering in Vision-Language Models",
+      "authors": "M Shafay, D Velayudhan, T Hassan, M Owais, I Hussain, N Werghi",
+      "venue": "2025 Advances in Science and Engineering Technology International … , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:4aZ_i-5WJEQC"
+    },
+    {
+      "title": "A Wildlife Camera Trap Dataset for Vulnerable Houbara Bustard Adult, Chick, and Egg Detection",
+      "authors": "SS Ali, HH Bamatraf, C Lucas, T Dieuleveut, E Sorato, N Werghi, ...",
+      "venue": "2025 IEEE International Conference on Image Processing Workshops (ICIPW … , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:AzKEL7Gb_04C"
+    },
+    {
+      "title": "CT-Insight VLM: Multimodal Vision-Language Framework for Accurate, Explainable, and Label-Efficient Lung CT Analysis",
+      "authors": "M Owais, M Shafay, T Hassan, N Syed, Q Rustum, I Hussain",
+      "venue": "TechRxiv 2025 (0910) , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:KaMxkj08jr0C"
+    },
+    {
+      "title": "Foundation Models Beyond the Usual: Survey Atlas of Underexplored Domains from Theory to Execution",
+      "authors": "M Owais, M Alam, B Islam, N Ahmad, Y Musthafa, M Shafay, I Hussain",
+      "venue": "Authorea Preprints , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:1Ye0OR6EYb4C"
+    },
+    {
+      "title": "Remote Sensing of Strawberry Plants Using UAVs and Deep Learning",
+      "authors": "R Singh, A Gadade, I Hussain",
+      "venue": "",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:j7_hQOaDUrUC"
+    },
+    {
+      "title": "Sliding Observer Based Robust Trajectory Tracking Control of a Knee Exoskeleton",
+      "authors": "N Elhendawi, M Salman, A Aljarah, M Belal, L Abuassi, Y Zweiri, ...",
+      "venue": "Authorea Preprints , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:7Hz3ACDFbsoC"
+    },
+    {
+      "title": "AG-Vision: a dual-module approach for tomato leaf disease diagnosis",
+      "authors": "A Khan, SU Khan, I Hussain",
+      "venue": "Frontiers in Plant Science 16, 1669077 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:eAlLMO4JVmQC"
+    },
+    {
+      "title": "Cross-Modal Knowledge Distillation for Efficient Material Recognition: Aligning Language Descriptions with Tactile Image Models",
+      "authors": "MM Mohsan, B Xu, B Hasanen, T Hassan, I Hussain",
+      "venue": "Brain Over Brawn: Workshop on Label Efficient Learning Paradigms for … , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:u-coK7KVo8oC"
+    },
+    {
+      "title": "Integrating Vision-Based AI and Large Language Models for Real-Time Aquaculture Net Pens Inspection",
+      "authors": "W Akram, MU Din, L Seneviratne, I Hussain",
+      "venue": "",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:Aul-kAQHnToC"
+    },
+    {
+      "title": "Advancements in precision spraying of agricultural robots: A comprehensive review",
+      "authors": "K Lochan, A Khan, I Elsayed, B Suthar, L Seneviratne, I Hussain",
+      "venue": "IEEE Access 12, 129447-129483 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:bKqednn6t2AC"
+    },
+    {
+      "title": "Advanced drone-based weed detection using feature-enriched deep learning approach",
+      "authors": "MU Rehman, H Eesaar, Z Abbas, L Seneviratne, I Hussain, KT Chong",
+      "venue": "Knowledge-Based Systems 305, 112655 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:HeT0ZceujKMC"
+    },
+    {
+      "title": "MuLA-GAN: Multi-level attention GAN for enhanced underwater visibility",
+      "authors": "AB Bakht, Z Jia, MU Din, W Akram, LS Saoud, L Seneviratne, D Lin, S He, ...",
+      "venue": "Ecological Informatics 81, 102631 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:XoXfffV-tXoC"
+    },
+    {
+      "title": "Seeing through the haze: A comprehensive review of underwater image enhancement techniques",
+      "authors": "LS Saoud, M Elmezain, A Sultan, M Heshmat, L Seneviratne, I Hussain",
+      "venue": "IEEE Access 12, 145206-145233 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:OcBU2YAGkTUC"
+    },
+    {
+      "title": "Beyond observation: Deep learning for animal behavior and ecological conservation",
+      "authors": "LS Saoud, A Sultan, M Elmezain, M Heshmat, L Seneviratne, I Hussain",
+      "venue": "Ecological Informatics 84, 102893 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:GFxP56DSvIMC"
+    },
+    {
+      "title": "Deep learning approaches for enhanced lower-limb exoskeleton control: A review",
+      "authors": "M Belal, N Alsheikh, A Aljarah, I Hussain",
+      "venue": "Ieee Access 12, 143883-143907 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:NXb4pA-qfm4C"
+    },
+    {
+      "title": "IQA vision transformed: A survey of transformer architectures in perceptual image quality assessment",
+      "authors": "MU Rehman, IF Nizami, F Ullah, I Hussain",
+      "venue": "IEEE Access 12, 183369-183393 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:8xutWZnSdmoC"
+    },
+    {
+      "title": "Aquaculture defects recognition via multi-scale semantic segmentation",
+      "authors": "W Akram, T Hassan, H Toubar, M Ahmed, N Miškovic, L Seneviratne, ...",
+      "venue": "Expert systems with applications 237, 121197 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:4MWp96NkSFoC"
+    },
+    {
+      "title": "MGlove-TS: A modular soft glove based on twisted string actuators and flexible structures",
+      "authors": "M Dragusanu, D Troisi, B Suthar, I Hussain, D Prattichizzo, M Malvezzi",
+      "venue": "Mechatronics 98, 103141 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:ClCfbGk0d_YC"
+    },
+    {
+      "title": "A graph neural network approach for predicting drug susceptibility in the human microbiome",
+      "authors": "MU Rehman, I Hussain, H Tayara, KT Chong",
+      "venue": "Computers in biology and medicine 179, 108729 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:XvxMoLDsR5gC"
+    },
+    {
+      "title": "A deep learning-based approach to strawberry grasping using a telescopic-link differential drive mobile robot in ros-gazebo for greenhouse digital twin environments",
+      "authors": "R Singh, L Seneviratne, I Hussain",
+      "venue": "IEEE Access 13, 361-381 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:5icHVeHT4IsC"
+    },
+    {
+      "title": "Deep learning approach for detecting tomato flowers and buds in greenhouses on 3P2R gantry robot",
+      "authors": "R Singh, A Khan, L Seneviratne, I Hussain",
+      "venue": "Scientific Reports 14 (1), 20552 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:ODE9OILHJdcC"
+    },
+    {
+      "title": "Enhancing aquaculture net pen inspection: a benchmark study on detection and semantic segmentation",
+      "authors": "W Akram, AB Bakht, MU Din, L Seneviratne, I Hussain",
+      "venue": "IEEE Access 13, 3453-3474 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:LgRImbQfgY4C"
+    },
+    {
+      "title": "CN-BSRIQA: Cascaded network-blind super-resolution image quality assessment",
+      "authors": "MU Rehman, IF Nizami, M Majid, F Ullah, I Hussain, KT Chong",
+      "venue": "Alexandria Engineering Journal 91, 580-591 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:4fGpz3EwCPoC"
+    },
+    {
+      "title": "Aerial swarm search for GNSS-denied maritime surveillance",
+      "authors": "S Yang, D Lin, S He, I Hussain, L Seneviratne",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems 60 (3), 3442-3453 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:PVjk1bu6vJQC"
+    },
+    {
+      "title": "SoPCAS finger: A three-dimensional printed soft finger with pneumatic chambers for simultaneous actuation, sensing, and controlled grasping",
+      "authors": "O Faris, C Tawk, I Hussain",
+      "venue": "Robotics Reports 2 (1), rorep. 2023.0019 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:hCrLmN-GePgC"
+    },
+    {
+      "title": "Benchmarking vision-based object tracking for usvs in complex maritime environments",
+      "authors": "MU Din, AB Bakht, W Akram, Y Dong, L Seneviratne, I Hussain",
+      "venue": "arXiv preprint arXiv:2412.07392 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:fbc8zXXH2BUC"
+    },
+    {
+      "title": "Feature fusion for human activity recognition using parameter-optimized multi-stage graph convolutional network and transformer models",
+      "authors": "M Belal, T Hassan, A Ahmed, A Aljarah, N Alsheikh, I Hussain",
+      "venue": "2024 IEEE International Conference on Advanced Video and Signal Based … , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:4hFrxpcac9AC"
+    },
+    {
+      "title": "Improving reinforcement learning based moving object grasping with trajectory prediction",
+      "authors": "B Xu, T Hassan, I Hussain",
+      "venue": "Intelligent Service Robotics 17 (2), 265-276 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:i2xiXl-TujoC"
+    },
+    {
+      "title": "Ontology-driven prompt tuning for LLM-based task and motion planning",
+      "authors": "MU Din, J Rosell, W Akram, I Zaplana, MA Roa, L Seneviratne, I Hussain",
+      "venue": "arXiv preprint arXiv:2412.07493 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:5MTHONV0fEkC"
+    },
+    {
+      "title": "Integrating features for recognizing human activities through optimized parameters in graph convolutional networks and transformer architectures",
+      "authors": "M Belal, T Hassan, A Hassan, N Alsheikh, N Elhendawi, I Hussain",
+      "venue": "2024 International Conference on Digital Image Computing: Techniques and … , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:HtS1dXgVpQUC"
+    },
+    {
+      "title": "Design of twisted string actuated flexure joint for supernumerary robotic arm for bimanual tasks",
+      "authors": "B Hasanen, B Suthar, Y Zweiri, L Seneviratne, I Hussain",
+      "venue": "IEEE Sensors Journal 25 (5), 7848-7857 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:dBIO0h50nwkC"
+    },
+    {
+      "title": "Design of intelligent fuzzy neural network control for variable stiffness actuated manipulator for uncertain payload",
+      "authors": "PK Muthusamy, Z Niu, K Lochan, L Seneviratne, I Hussain",
+      "venue": "IEEE Access 12, 160299-160314 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:r_AWSJRzSzQC"
+    },
+    {
+      "title": "Real-time and resource-efficient multi-scale adaptive robotics vision for underwater object detection and domain generalization",
+      "authors": "LS Saoud, Z Niu, L Seneviratne, I Hussain",
+      "venue": "2024 IEEE International Conference on Image Processing (ICIP), 3917-3923 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:OR75R8vi5nAC"
+    },
+    {
+      "title": "Long-Range Vision-Based UAV-assisted Localization for Unmanned Surface Vehicles",
+      "authors": "W Akram, S Yang, H Kuang, X He, MU Din, Y Dong, D Lin, L Seneviratne, ...",
+      "venue": "arXiv preprint arXiv:2408.11429 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:4vMrXwiscB8C"
+    },
+    {
+      "title": "Design of robotic finger using twisted string actuator with modular passive return rotational joints to achieve high grasping force: Application to wearable sixth finger",
+      "authors": "B Suthar, MI Awad, L Seneviratne, Y Zweiri, I Hussain",
+      "venue": "Mechatronics 99, 103157 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:rmuvC79q63oC"
+    },
+    {
+      "title": "Continuous wavelet network for efficient and transferable collision detection in collaborative robots",
+      "authors": "Z Niu, T Hassan, MN Boushaki, N Werghi, I Hussain",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems 55 (3), 2046-2061 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:tH6gc1N1XXoC"
+    },
+    {
+      "title": "Recurrent 3-D multi-level visual transformer for joint classification of heterogeneous 2-d AND 3-D radiographic data",
+      "authors": "M Owais, M Zubair, T Hassan, D Velayudhan, I Hussain, N Werghi",
+      "venue": "2024 IEEE international conference on image processing (ICIP), 3205-3211 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:fFSKOagxvKUC"
+    },
+    {
+      "title": "Unified synergistic deep learning framework for multimodal 2-D and 3-D radiographic data analysis: model development and validation",
+      "authors": "M Owais, M Zubair, L Seneviratne, N Werghi, I Hussain",
+      "venue": "IEEE Access 12, 159688-159705 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:LhH-TYMQEocC"
+    },
+    {
+      "title": "Hapticformers: Utilizing transformers for avocado maturity grading through vision-based tactile assessment",
+      "authors": "I Fahmy, T Hassan, I Hussain, N Werghi, L Seneviratne",
+      "venue": "2024 IEEE Haptics Symposium (HAPTICS), 347-352 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:86PQX7AUzd4C"
+    },
+    {
+      "title": "A comprehensive review of current robot-based pollinators in greenhouse farming",
+      "authors": "R Singh, I Hussain",
+      "venue": "arXiv preprint arXiv:2410.23747 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:a3BOlSfXSfwC"
+    },
+    {
+      "title": "Enhancing functional and extra motor abilities: A focus group study on the re-design of an extra-robotic finger",
+      "authors": "S Hendriks, B Hasanen, N Afzal, I Hussain, M Obaid",
+      "venue": "2024 33rd IEEE International Conference on Robot and Human Interactive … , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:yqoGN6RLRZoC"
+    },
+    {
+      "title": "Enhanced gesture recognition through graph-based multimodal fusion",
+      "authors": "MU Rehman, T Ilyas, L Seneviratne, I Hussain",
+      "venue": "2024 IEEE International Conference on Signal Processing, Communications and … , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:cWzG1nlazyYC"
+    },
+    {
+      "title": "Mapping cognitive engagement: EEG and graph theory analysis of brain region involvement in supernumerary robotic finger utilization",
+      "authors": "R Katmah, MI Awad, A Al Shehhi, MKA Hantash, FA Alskafi, AA Hulleck, ...",
+      "venue": "2024 46th Annual International Conference of the IEEE Engineering in … , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:nVrZBo8bIpAC"
+    },
+    {
+      "title": "Vision-Based Tactile Sensors in Precision Agriculture: Deep Learning Approaches, Applications, and Limitations",
+      "authors": "I Fahmy, T Hassan, I Hussain, L Seneviratne, N Werghi",
+      "venue": "",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:_FM0Bhl9EiAC"
+    },
+    {
+      "title": "An Effective Two-time Scale Composite Control Contraction Based Chaotic Trajectory Tracking of Two-link Flexible Manipulator",
+      "authors": "K Lochan, A Khan, BK Roy, B Subudhi, L Seneviratne, I Hussain",
+      "venue": "2024 IEEE 63rd Conference on Decision and Control (CDC), 3563-3570 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:QD3KBmkZPeQC"
+    },
+    {
+      "title": "LLM-guided Task and Motion Planning using Knowledge-based Reasoning",
+      "authors": "MU Din, J Rosell, W Akram, I Zaplana, MA Roa, I Hussain",
+      "venue": "arXiv preprint arXiv:2412.07493 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:A8cqit5AE6sC"
+    },
+    {
+      "title": "Meta-Domain Adaptive Framework for Efficient Diagnostic Assessment of Lung Infection Using CT Radiographs",
+      "authors": "M Owais, T Hassan, N Afzal, SH Khan, D Velayudhan, II Ganapathi, ...",
+      "venue": "",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:P7Ujq4OLJYoC"
+    },
+    {
+      "title": "Object Manipulation in Marine Environments using Reinforcement Learning",
+      "authors": "A Nader, MU Din, M Irfan, I Hussain",
+      "venue": "IFAC-PapersOnLine 58 (20), 215-222 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:0izLItjtcgwC"
+    },
+    {
+      "title": "A Multi-Stage Heading Control Approach for Autonomous Usv Navigation in Gnss-Denied Environments with Uav Cooperation",
+      "authors": "M Ud Din, X He, H Kuang, S Yang, W Akram, D Lin, L Seneviratne, ...",
+      "venue": "Xiaoyu and Kuang, Hailiang and Yang, Siyuan and Akram, Waseem and Lin, Defu … , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:anf4URPfarAC"
+    },
+    {
+      "title": "Infinite-rotation infinite-stiffness variable stiffness actuator (IRISVSA) with application for compliant supernumerary robotic limb",
+      "authors": "MI AWAD, MA RAMADAN, BBM HASANEN, I HUSSAIN, SM Seneviratne",
+      "venue": "US Patent 12,128,553 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:FAceZFleit8C"
+    },
+    {
+      "title": "MAD-CNN: High-Sensitivity and Robust Collision Detection for Robots with Variable Stiffness Actuation",
+      "authors": "Z Niu, LS Saoud, I Hussain",
+      "venue": "",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:_axFR9aDTf0C"
+    },
+    {
+      "title": "Sequential SLAM: avoiding tracking failures in visual SLAM using recurrent reinforcement learning",
+      "authors": "K Naveed, W Hussain, I Hussain, ML Anjum",
+      "venue": "International Conference on Intelligent Robots and Systems (IROS) 2024 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:zCSUwVk65WsC"
+    },
+    {
+      "title": "Design and Fabrication of Foam-Filled Topology Optimized Composite Structures Using an Improved Non-Monotonic Interpolation Function",
+      "authors": "D Yihao, Y Yu, X Gu, S He, M Ud Din, I Hussain",
+      "venue": "Xuechen and yu, yinan and He, Shaoming and Ud Din, Muhayy and Hussain, Irfan … , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:gKiMpY-AVTkC"
+    },
+    {
+      "title": "Structural Topology Optimization of Aircraft Wing Leading Edge Fabricated of Multilayer Composites",
+      "authors": "D Yihao, I Hussain, S He",
+      "venue": "Available at SSRN 5041225 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:ZzlSgRqYykMC"
+    },
+    {
+      "title": "Feature-Enriched Deep Learning Approach for Enhanced Weed Detection in Agricultural Drone Imagery",
+      "authors": "MU Rehman, H Eesaar, Z Abbas, L Seneviratne, I Hussain",
+      "venue": "Feature-Enriched Deep Learning Approach for Enhanced Weed Detection in … , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:YohjEiUPhakC"
+    },
+    {
+      "title": "Tomato maturity recognition with convolutional transformers",
+      "authors": "A Khan, T Hassan, M Shafay, I Fahmy, N Werghi, S Mudigansalage, ...",
+      "venue": "Scientific reports 13 (1), 22885 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:Z5m8FVwuT1cC"
+    },
+    {
+      "title": "Proprioception and exteroception of a soft robotic finger using neuromorphic vision-based sensing",
+      "authors": "O Faris, R Muthusamy, F Renda, I Hussain, D Gan, L Seneviratne, ...",
+      "venue": "Soft Robotics 10 (3), 467-481 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:-_dYPAW6P2MC"
+    },
+    {
+      "title": "Deep learning for plant bioinformatics: an explainable gradient-based approach for disease detection",
+      "authors": "M Shoaib, B Shah, N Sayed, F Ali, R Ullah, I Hussain",
+      "venue": "Frontiers in Plant Science 14, 1283235 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:EYYDruWGBe4C"
+    },
+    {
+      "title": "Vision-based autonomous navigation for unmanned surface vessel in extreme marine conditions",
+      "authors": "M Ahmed, AB Bakht, T Hassan, W Akram, A Humais, L Seneviratne, S He, ...",
+      "venue": "2023 IEEE/RSJ international conference on intelligent robots and systems … , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:BUYA1_V_uYcC"
+    },
+    {
+      "title": "Early and accurate detection of tomato leaf diseases using TomFormer",
+      "authors": "A Khan, U Nawaz, L Kshetrimayum, L Seneviratne, I Hussain",
+      "venue": "2023 21st International Conference on Advanced Robotics (ICAR), 645-651 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:edDO8Oi4QzsC"
+    },
+    {
+      "title": "Design optimization of a variable stiffness actuator for knee exoskeleton application",
+      "authors": "A Aljarah, MI Awad, M Boushaki, I Hussain",
+      "venue": "IEEE Access 11, 52740-52749 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:ipzZ9siozwsC"
+    },
+    {
+      "title": "irisVSA: Infinite-rotation infinite-stiffness Variable Stiffness Actuator towards physical human–robot-interaction",
+      "authors": "MA Ramadan, MI Awad, MN Boushaki, Z Niu, K Khalaf, I Hussain",
+      "venue": "Mechatronics 96, 103095 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:e_rmSamDkqQC"
+    },
+    {
+      "title": "ADOD: Adaptive domain-aware object detection with residual attention for underwater environments",
+      "authors": "LS Saoud, Z Niu, A Sultan, L Seneviratne, I Hussain",
+      "venue": "2023 21st International Conference on Advanced Robotics (ICAR), 633-638 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:HbR8gkJAVGIC"
+    },
+    {
+      "title": "Marine : Design and Implementation of Unmanned Surface Vessel for Vision Guided Navigation",
+      "authors": "MU Din, A Humais, W Akram, M Alblooshi, LS Saoud, A Alblooshi, ...",
+      "venue": "2023 21st International Conference on Advanced Robotics (ICAR), 226-231 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:PoWvk5oyLR8C"
+    },
+    {
+      "title": "TempoNet: empowering long-term knee joint angle prediction with dynamic temporal attention in exoskeleton control",
+      "authors": "LS Saoud, I Hussain",
+      "venue": "2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids), 1-8 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:g3aElNc5_aQC"
+    },
+    {
+      "title": "Autonomous underwater robotic system for aquaculture applications",
+      "authors": "W Akram, M Ahmed, L Seneviratne, I Hussain",
+      "venue": "arXiv preprint arXiv:2308.14762 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:p__nRnzSRKYC"
+    },
+    {
+      "title": "Evaluating deep learning assisted automated aquaculture net pens inspection using rov",
+      "authors": "W Akram, M Ahmed, L Seneviratne, I Hussain",
+      "venue": "arXiv preprint arXiv:2308.13826 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:BwyfMAYsbu0C"
+    },
+    {
+      "title": "Design and experimental evaluation of a sensorized parallel gripper with optical mirroring mechanism",
+      "authors": "O Faris, H Alyammahi, B Suthar, R Muthusamy, UH Shah, I Hussain, ...",
+      "venue": "Mechatronics 90, 102955 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:t7zJ5fGR-2UC"
+    },
+    {
+      "title": "Angular contrastive distillation driven self-supervised scanner independent screening and grading of retinopathy",
+      "authors": "T Hassan, Z Li, MU Akram, I Hussain, K Khalaf, N Werghi",
+      "venue": "Information Fusion 92, 404-419 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:z_wVstp3MssC"
+    },
+    {
+      "title": "Mars: Multi-scale adaptive robotics vision for underwater object detection and domain generalization",
+      "authors": "LS Saoud, L Seneviratne, I Hussain",
+      "venue": "arXiv preprint arXiv:2312.15275 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:ruyezt5ZtCIC"
+    },
+    {
+      "title": "Strictly decentralized approaches for multi-robot grasp coordination",
+      "authors": "R Muthusamy, V Kyrki, PK Muthusamy, T Taha, I Hussain, Y Zweiri, ...",
+      "venue": "2023 IEEE 19th International Conference on Automation Science and … , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:L7CI7m0gUJcC"
+    },
+    {
+      "title": "Convolutional transformer for autonomous recognition and grading of tomatoes under various lighting, occlusion, and ripeness conditions",
+      "authors": "A Khan, T Hassan, M Shafay, I Fahmy, N Werghi, L Seneviratne, I Hussain",
+      "venue": "arXiv e-prints, arXiv: 2307.01530 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:uWiczbcajpAC"
+    },
+    {
+      "title": "Seg-CURL: Segmented contrastive unsupervised reinforcement learning for Sim-to-real in visual robotic manipulation",
+      "authors": "B Xu, T Hassan, I Hussain",
+      "venue": "IEEE Access 11, 50195-50204 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:EkHepimYqZsC"
+    },
+    {
+      "title": "FocalGatedNet: A novel deep learning model for accurate knee joint angle prediction",
+      "authors": "H Ibrahim, L Saad Saoud, A Aljarah, I Hussain",
+      "venue": "arXiv e-prints, arXiv: 2306.06900 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:zLWjf1WUPmwC"
+    },
+    {
+      "title": "ADOD: Adaptive Domain-Aware Object Detection with Residual Attention for Underwater Environments",
+      "authors": "L Saad Saoud, Z Niu, A Sultan, L Seneviratne, I Hussain",
+      "venue": "arXiv e-prints, arXiv: 2312.06801 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:foquWX3nUaYC"
+    },
+    {
+      "title": "Robust collision detection for robots with variable stiffness actuation by using MAD-CNN: Modularized-Attention-Dilated Convolutional Neural Network",
+      "authors": "Z Niu, LS Saoud, I Hussain",
+      "venue": "arXiv preprint arXiv:2310.02573 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:oNZyr7d5Mn4C"
+    },
+    {
+      "title": "Mula-gan: Multi-level attention gan for enhanced underwater visibility",
+      "authors": "A Baidar Bakht, Z Jia, W Akram, L Saad Saoud, L Seneviratne, S He, ...",
+      "venue": "Fizikai and Din, Muhayy ud and Akram, Waseem and Saad Saoud, Lyes and … , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:q3CdL3IzO_QC"
+    },
+    {
+      "title": "Improving knee joint angle prediction through dynamic contextual focus and gated linear units",
+      "authors": "L Saad Saoud, H Ibrahim, A Aljarah, I Hussain",
+      "venue": "Available at SSRN 4591943 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:VaXvl8Fpj5cC"
+    },
+    {
+      "title": "Distributed Large-Scale Swarm Control in Obstacle Environment Based on Random Finite Set Theory",
+      "authors": "J Sun, D Lin, S He, I Hussain, L Seneviratne",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems 59 (6), 7808-7821 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:AvfA0Oy_GE0C"
+    },
+    {
+      "title": "Design, modeling, and control of a series elastic actuator with discretely adjustable stiffness (seadas)",
+      "authors": "H Toubar, MI Awad, MN Boushaki, Z Niu, K Khalaf, I Hussain",
+      "venue": "Mechatronics 86, 102863 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:ZfRJV9d4-WMC"
+    },
+    {
+      "title": "Towards safe physical human-robot interaction by exploring the rapid stiffness switching feature of discrete variable stiffness actuation",
+      "authors": "Z Niu, MI Awad, UH Shah, MN Boushaki, Y Zweiri, L Seneviratne, ...",
+      "venue": "IEEE Robotics and Automation Letters 7 (3), 8084-8091 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:7T2F9Uy0os0C"
+    },
+    {
+      "title": "Lower-limb robotic assistance devices for drop foot: a review",
+      "authors": "N Al-Rahmani, DM Mohan, MI Awad, SA Wasti, I Hussain, K Khalaf",
+      "venue": "IEEE Access 10, 51964-51994 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:Fu2w8maKXqMC"
+    },
+    {
+      "title": "A framework for determining the performance and requirements of cable-driven mobile lower limb rehabilitation exoskeletons",
+      "authors": "R Prasad, M El-Rich, MI Awad, I Hussain, HF Jelinek, U Huzaifa, K Khalaf",
+      "venue": "Frontiers in Bioengineering and Biotechnology 10, 920462 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:kzcrU_BdoSEC"
+    },
+    {
+      "title": "Novel supernumerary robotic limb based on variable stiffness actuators for hemiplegic patients assistance",
+      "authors": "BB Hasanen, MI Awad, MN Boushaki, Z Niu, MA Ramadan, I Hussain",
+      "venue": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems … , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:2KloaMYe4IUC"
+    },
+    {
+      "title": "Wearable Robots and Sensorimotor Interfaces: Augmentation, Rehabilitation, Assistance or Substitution of Human Sensorimotor Function",
+      "authors": "CG Rose, D Gan, I Hussain",
+      "venue": "Frontiers in Neurorobotics 16, 954865 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:NJ774b8OgUMC"
+    },
+    {
+      "title": "A Compliant-Rigid Underwater Manipulator for Enhanced Safety and Precision Performance",
+      "authors": "H Toubar, UH Shah, I Hussain",
+      "venue": "2022 13th Asian Control Conference (ASCC), 1505-1510 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:_Re3VWB3Y0AC"
+    },
+    {
+      "title": "Human augmentation by wearable supernumerary robotic limbs: review and perspectives",
+      "authors": "D Prattichizzo, M Pozzi, T Lisini Baldi, M Malvezzi, I Hussain, S Rossi, ...",
+      "venue": "Progress in Biomedical Engineering 3 (4), 042005 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:LjlpjdlvIbIC"
+    },
+    {
+      "title": "Compliant gripper design, prototyping, and modeling using screw theory formulation",
+      "authors": "I Hussain, M Malvezzi, D Gan, Z Iqbal, L Seneviratne, D Prattichizzo, ...",
+      "venue": "The International Journal of Robotics Research 40 (1), 55-71 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:Mojj43d5GZwC"
+    },
+    {
+      "title": "Discrete cosserat approach for closed-chain soft robots: Application to the fin-ray finger",
+      "authors": "C Armanini, I Hussain, MZ Iqbal, D Gan, D Prattichizzo, F Renda",
+      "venue": "IEEE Transactions on Robotics 37 (6), 2083-2098 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:JoZmwDi-zQgC"
+    },
+    {
+      "title": "Design and control of a discrete variable stiffness actuator with instant stiffness switch for safe human-robot interaction",
+      "authors": "I Hussain, A Albalasie, MI Awad, K Tamizi, Z Niu, L Seneviratne, D Gan",
+      "venue": "IEEE Access 9, 118215-118231 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:WqliGbK-hY8C"
+    },
+    {
+      "title": "Resoft gripper: A reconfigurable soft gripper with monolithic fingers and differential mechanism for versatile and delicate grasping",
+      "authors": "AT Mathew, I Hussain, C Stefanini, IMB Hmida, F Renda",
+      "venue": "2021 IEEE 4th international conference on soft robotics (RoboSoft), 372-378 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:5awf1xo2G04C"
+    },
+    {
+      "title": "A double-layered elbow exoskeleton interface with 3-PRR planar parallel mechanism for axis self-alignment",
+      "authors": "MI Awad, I Hussain, S Ghosh, Y Zweiri, D Gan",
+      "venue": "Journal of Mechanisms and Robotics 13 (1), 011016 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:AXPGKjj_ei8C"
+    },
+    {
+      "title": "Device for enhancing a subject's grasping capability",
+      "authors": "D CIONCOLONI, I HUSSAIN, D PRATTICHIZZO, S Rossi, G SALVIETTI, ...",
+      "venue": "US Patent 11,154,407 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:PELIpwtuRlgC"
+    },
+    {
+      "title": "Design and prototyping soft–rigid tendon-driven modular grippers using interpenetrating phase composites materials",
+      "authors": "I Hussain, O Al-Ketan, F Renda, M Malvezzi, D Prattichizzo, L Seneviratne, ...",
+      "venue": "The International Journal of Robotics Research 39 (14), 1635-1646 , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:q3oQSFYPqjQC"
+    },
+    {
+      "title": "Structural optimization of adaptive soft fin ray fingers with variable stiffening capability",
+      "authors": "K Elgeneidy, K Goher",
+      "venue": "University of Lincoln , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:wbdj-CoPYUoC"
+    },
+    {
+      "title": "Augmenting human manipulation abilities with supernumerary robotic limbs",
+      "authors": "I Hussain, D Prattichizzo",
+      "venue": "Springer , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:HE397vMXCloC"
+    },
+    {
+      "title": "Design and modeling of a variable stiffness barrel mechanism for ankle exoskeleton",
+      "authors": "AM Soliman, I Hussain, MI Awad, D Gan",
+      "venue": "International Design Engineering Technical Conferences and Computers and … , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:eMMeJKvmdy0C"
+    },
+    {
+      "title": "Enhancing human hand manipulation abilities through supernumerary robotic fingers",
+      "authors": "I Hussain, D Prattichizzo",
+      "venue": "Augmenting Human Manipulation Abilities with Supernumerary Robotic Limbs, 9-24 , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:WA5NYHcadZ8C"
+    },
+    {
+      "title": "Wearable sensory motor interfaces for supernumerary robotic fingers",
+      "authors": "I Hussain, D Prattichizzo",
+      "venue": "Augmenting Human Manipulation Abilities with Supernumerary Robotic Limbs, 75-92 , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:t6usbXjVLHcC"
+    },
+    {
+      "title": "Compensating hand function in chronic stroke patients through the supernumerary robotic finger",
+      "authors": "I Hussain, D Prattichizzo",
+      "venue": "Augmenting Human Manipulation Abilities with Supernumerary Robotic Limbs, 25-38 , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:XiVPGOgt02cC"
+    },
+    {
+      "title": "Design and development of soft supernumerary robotic fingers for grasp compensation in chronic stroke patients",
+      "authors": "I Hussain, D Prattichizzo",
+      "venue": "Augmenting Human Manipulation Abilities with Supernumerary Robotic Limbs, 39-73 , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:5ugPr518TE4C"
+    },
+    {
+      "title": "From grasp compensation towards hemiparetic upper limb rehabilitation",
+      "authors": "I Hussain, D Prattichizzo",
+      "venue": "Augmenting Human Manipulation Abilities with Supernumerary Robotic Limbs … , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:olpn-zPbct0C"
+    },
+    {
+      "title": "Wearable emg interfaces for motion control of supernumerary robotic fingers",
+      "authors": "I Hussain, D Prattichizzo",
+      "venue": "Augmenting Human Manipulation Abilities with Supernumerary Robotic Limbs, 93-119 , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:bnK-pcrLprsC"
+    },
+    {
+      "title": "ASME Accepted Manuscript Repository",
+      "authors": "Y Zweiri, MI Awad, I Hussain, S Ghosh, Y Zweiri, D Gan",
+      "venue": "",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:5qfkUJPXOUwC"
+    },
+    {
+      "title": "Synthesis and characterization of ZnO nanoparticles and their use as an adsorbent for the arsenic removal from drinking water",
+      "authors": "H Rehman, Z Ali, M Hussain, SR Gilani, TG Shahzady, A Zahra, ...",
+      "venue": "Digest Journal of Nanomaterials and Biostructures 14 (4), 1033-1040 , 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:g5Ck-dwhA_QC"
+    },
+    {
+      "title": "Design and prototype of supernumerary robotic finger (SRF) inspired by fin ray® effect for patients suffering from sensorimotor hand impairment",
+      "authors": "I Hussain, M Anwar, Z Iqbal, R Muthusamy, M Malvezzi, L Seneviratne, ...",
+      "venue": "2019 2nd IEEE International Conference on Soft Robotics (RoboSoft), 398-403 , 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:LPZeul_q3PIC"
+    },
+    {
+      "title": "Passive discrete variable stiffness joint (PDVSJ-II): Modeling, design, characterization, and testing toward passive haptic interface",
+      "authors": "MI Awad, I Hussain, D Gan, A Az-Zu'bi, C Stefanini, K Khalaf, Y Zweiri, ...",
+      "venue": "Journal of Mechanisms and Robotics 11 (1), 011005 , 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:k_IJM867U9cC"
+    },
+    {
+      "title": "Modeling and prototyping of a soft closed-chain modular gripper",
+      "authors": "M Anwar, TA Khawli, I Hussain, D Gan, F Renda",
+      "venue": "Industrial Robot: the international journal of robotics research and … , 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:SP6oXDckpogC"
+    },
+    {
+      "title": "Modeling, Identification, and Control of a Discrete Variable Stiffness Actuator (DVSA)",
+      "authors": "DG Irfan Hussain, Ahmad Albalasie , Mohammad I. Awad",
+      "venue": "Actuators 8 (3), 50 , 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:fQNAKQ3IYiAC"
+    },
+    {
+      "title": "How to 3d-print compliant joints with a selected stiffness for cooperative underactuated soft grippers",
+      "authors": "I Hussain, Z Iqbal, M Malvezzi, D Prattichizzo, G Salvietti",
+      "venue": "International Workshop on Human-Friendly Robotics, 139-153 , 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:BrmTIyaxlBUC"
+    },
+    {
+      "title": "Design, modeling and testing of a flagellum-inspired soft underwater propeller exploiting passive elasticity",
+      "authors": "M Calisti, F Giorgio-Serchi, C Stefanini, M Farman, I Hussain, C Armanini, ...",
+      "venue": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems … , 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:eJXPG6dFmWUC"
+    },
+    {
+      "title": "Design, prototype, and control design based on computed torque control of selective compliance assembly robot arm",
+      "authors": "A Albalasie, I Hussain, M Horoub, S Khan, S Ali, D Gan",
+      "venue": "2019 IEEE 9th Annual International Conference on CYBER Technology in … , 2019",
+      "year": "2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:1qzjygNMrQYC"
+    },
+    {
+      "title": "The hBracelet: A wearable haptic device for the distributed mechanotactile stimulation of the upper limb",
+      "authors": "L Meli, I Hussain, M Aurilio, M Malvezzi, MK O’Malley, D Prattichizzo",
+      "venue": "IEEE Robotics and Automation Letters 3 (3), 2198-2205 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:IWHjjKOFINEC"
+    },
+    {
+      "title": "Modeling and prototyping of an underactuated gripper exploiting joint compliance and modularity",
+      "authors": "I Hussain, F Renda, Z Iqbal, M Malvezzi, G Salvietti, L Seneviratne, D Gan, ...",
+      "venue": "IEEE Robotics and automation letters 3 (4), 2854-2861 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:-f6ydRqryjwC"
+    },
+    {
+      "title": "The co-gripper: a wireless cooperative gripper for safe human robot interaction",
+      "authors": "G Salvietti, Z Iqbal, I Hussain, D Prattichizzo, M Malvezzi",
+      "venue": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems … , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:JV2RwH3_ST0C"
+    },
+    {
+      "title": "Soft wearable assistive robotics: exosuits and supernumerary limbs",
+      "authors": "L Masia, I Hussain, M Xiloyannis, C Pacchierotti, L Cappello, M Malvezzi, ...",
+      "venue": "Wearable Exoskeleton Systems: Design, control and applications, 219-254 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:r0BpntZqJG4C"
+    },
+    {
+      "title": "Design of a novel passive binary-controlled variable stiffness joint (BpVSJ) towards passive haptic interface application",
+      "authors": "MI Awad, D Gan, I Hussain, A Az-Zu’bi, C Stefanini, K Khalaf, Y Zweiri, ...",
+      "venue": "IEEE Access 6, 63045-63057 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:M3NEmzRMIkIC"
+    },
+    {
+      "title": "Modeling and prototyping of a soft prosthetic hand exploiting joint compliance and modularity",
+      "authors": "I Hussain, Z Iqbal, M Malvezzi, L Seneviratne, D Gan, D Prattichizzo",
+      "venue": "2018 IEEE international conference on robotics and biomimetics (ROBIO), 65-70 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:blknAaTinKkC"
+    },
+    {
+      "title": "Modeling, control, and numerical simulations of a novel binary-controlled variable stiffness actuator (bcvsa)",
+      "authors": "I Hussain, A Albalasie, MI Awad, L Seneviratne, D Gan",
+      "venue": "Front. Robot. AI 5, 68 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:hC7cP41nSMkC"
+    },
+    {
+      "title": "Design criteria for wearable robotic extra–fingers with underactuated modular structure",
+      "authors": "M Malvezzi, MC Valigi, G Salvietti, Z Iqbal, I Hussain, D Prattichizzo",
+      "venue": "The International Conference of IFToMM ITALY, 509-517 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:maZDTaKrznsC"
+    },
+    {
+      "title": "Dynamic modeling and numerical simulations of a passive robotic walker using Euler-Lagrange method",
+      "authors": "I Hussain, MI Awad, AB Junaid, F Renda, L Seneviratne, D Gan",
+      "venue": "2018 11th international symposium on mechatronics and its applications (ISMA … , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:qUcmZB5y_30C"
+    },
+    {
+      "title": "Toward wearable supernumerary robotic fingers to compensate missing grasping abilities in hemiparetic upper limb",
+      "authors": "I Hussain, G Spagnoletti, G Salvietti, D Prattichizzo",
+      "venue": "The International Journal of Robotics Research 36 (13-14), 1414-1436 , 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+      "title": "A soft supernumerary robotic finger and mobile arm support for grasping compensation and hemiparetic upper limb rehabilitation",
+      "authors": "I Hussain, G Salvietti, G Spagnoletti, M Malvezzi, D Cioncoloni, S Rossi, ...",
+      "venue": "Robotics and Autonomous Systems 93, 1-12 , 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:ULOm3_A8WrAC"
+    },
+    {
+      "title": "Design of the passive joints of underactuated modular soft hands for fingertip trajectory tracking",
+      "authors": "G Salvietti, I Hussain, M Malvezzi, D Prattichizzo",
+      "venue": "IEEE Robotics and Automation Letters 2 (4), 2008-2015 , 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:4DMP91E08xMC"
+    },
+    {
+      "title": "A soft robotic supernumerary finger and a wearable cutaneous finger interface to compensate the missing grasping capabilities in chronic stroke patients",
+      "authors": "I Hussain, L Meli, C Pacchierotti, D Prattichizzo",
+      "venue": "2017 IEEE World Haptics Conference (WHC), 183-188 , 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:QIV2ME_5wuYC"
+    },
+    {
+      "title": "On the role of stiffness design for fingertip trajectories of underactuated modular soft hands",
+      "authors": "I Hussain, G Salvietti, M Malvezzi, D Prattichizzo",
+      "venue": "2017 IEEE International Conference on Robotics and Automation (ICRA), 3096-3101 , 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+      "title": "A magnetic compatible supernumerary robotic finger for functional magnetic resonance imaging (fMRI) acquisitions: Device description and preliminary results",
+      "authors": "I Hussain, E Santarnecchi, A Leo, E Ricciardi, S Rossi, D Prattichizzo",
+      "venue": "2017 International Conference on Rehabilitation Robotics (ICORR), 1177-1182 , 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:qxL8FJ1GzNcC"
+    },
+    {
+      "title": "The robotic sixth finger: A wearable compensatory tool to regain grasping capabilities in paretic hands",
+      "authors": "G Salvietti, I Hussain, D Prattichizzo",
+      "venue": "Robotics Research: Volume 1, 423-437 , 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+      "title": "The Supernumerary Robotic Fingers to Compensate and Augment the Human Manipulation Abilities",
+      "authors": "I Hussain",
+      "venue": "Università degli Studi di Siena , 2017",
+      "year": "2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:XD-gHx7UXLsC"
+    },
+    {
+      "title": "The Soft-SixthFinger: a Wearable EMG Controlled Robotic Extra-Finger for Grasp Compensation in Chronic Stroke Patients.",
+      "authors": "DP I. Hussain, G. Salvietti, G. Spagnoletti",
+      "venue": "IEEE Robotics and Automation Letters , 2016",
+      "year": "2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "title": "The hRing: A wearable haptic device to avoid occlusions in hand tracking",
+      "authors": "C Pacchierotti, G Salvietti, I Hussain, L Meli, D Prattichizzo",
+      "venue": "2016 IEEE haptics symposium (HAPTICS), 134-139 , 2016",
+      "year": "2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:ufrVoPGSRksC"
+    },
+    {
+      "title": "Compensating hand function in chronic stroke patients through the robotic sixth finger",
+      "authors": "G Salvietti, I Hussain, D Cioncoloni, S Taddei, S Rossi, D Prattichizzo",
+      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 25 (2 … , 2016",
+      "year": "2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+      "title": "An EMG interface for the control of motion and compliance of a supernumerary robotic finger",
+      "authors": "I Hussain, G Spagnoletti, G Salvietti, D Prattichizzo",
+      "venue": "Frontiers in neurorobotics 10, 18 , 2016",
+      "year": "2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:3fE2CSJIrl8C"
+    },
+    {
+      "title": "A wearable haptic ring for the control of extra robotic fingers",
+      "authors": "I Hussain, G Spagnoletti, C Pacchierotti, D Prattichizzo",
+      "venue": "International AsiaHaptics conference, 323-325 , 2016",
+      "year": "2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:mVmsd5A6BfQC"
+    },
+    {
+      "title": "A perceptually-motivated deadband compression approach for cutaneous haptic feedback",
+      "authors": "A Tirmizi, C Pacchierotti, I Hussain, G Alberico, D Prattichizzo",
+      "venue": "2016 IEEE Haptics Symposium (HAPTICS), 223-228 , 2016",
+      "year": "2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "title": "On control interfaces for the robotic sixth finger",
+      "authors": "I Hussain, G Salvietti, D Prattichizzo",
+      "venue": "Proceedings of the 7th Augmented Human International Conference 2016, 1-2 , 2016",
+      "year": "2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:roLk4NBRz8UC"
+    },
+    {
+      "title": "A soft robotic extra-finger and arm support to recover grasp capabilities in chronic stroke patients",
+      "authors": "I Hussain, G Salvietti, G Spagnoletti, D Cioncoloni, S Rossi, D Prattichizzo",
+      "venue": "Wearable Robotics: Challenges and Trends: Proceedings of the 2nd … , 2016",
+      "year": "2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:8k81kl-MbHgC"
+    },
+    {
+      "title": "Using the robotic sixth finger and vibrotactile feedback for grasp compensation in chronic stroke patients",
+      "authors": "I Hussain, G Salvietti, L Meli, C Pacchierotti, D Cioncoloni, S Rossi, ...",
+      "venue": "2015 IEEE International Conference on Rehabilitation Robotics (ICORR), 67-72 , 2015",
+      "year": "2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&citation_for_view=bCC3kdUAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "title": "Vibrotactile haptic feedback for intuitive control of robotic extra fingers.",
+      "authors": "I Hussain, L Meli, C Pacchierotti, G Salvietti, D Prattichizzo",
+      "venue": "World Haptics, 394-399 , 2015",
+      "year": "2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "title": "Design guidelines for a wearable robotic extra-finger",
+      "authors": "I Hussain, G Salvietti, M Malvezzi, D Prattichizzo",
+      "venue": "2015 IEEE 1st International Forum on Research and Technologies for Society … , 2015",
+      "year": "2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "title": "The Robotic Sixth Finger: a Wearable Compensatory Tool to Regain Grasping Capabilities in Paretic Hand",
+      "authors": "DP G. Salvietti, I. Hussain",
+      "venue": "In Proc. ISRR 2015, In press, Sestri Levante, Italy, , 2015",
+      "year": "2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "title": "Design of a haptic cane for walking stability and rehabilitation",
+      "authors": "MR Afzal, I Hussain, Y Jan, J Yoon",
+      "venue": "2013 13th International Conference on Control, Automation and Systems (ICCAS … , 2013",
+      "year": "2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=20&pagesize=80&citation_for_view=bCC3kdUAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+      "title": "Speed adaptation of a small size treadmill using impedance control approach for rehabilitation",
+      "authors": "J Yoon, A Manurung, I Hussain",
+      "venue": "International Conference on Intelligent Robotics and Applications, 165-176 , 2013",
+      "year": "2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "title": "Design of high torque elbow joint for above elbow prosthesis",
+      "authors": "I Hussain, A Masood, J Iqbal, US Khan",
+      "venue": "Int J Mech Aerosp Ind Mechatron Eng 5 (11), 318-321 , 2011",
+      "year": "2011",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+      "title": "Ai-Driven Robotic Semantic Slam: Real-Time Depth and Adaptive Mapping for Autonomous Navigation in Complex Environments",
+      "authors": "L Saad Saoud, I Hussain",
+      "venue": "Available at SSRN 5264725 , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=100&pagesize=100&citation_for_view=bCC3kdUAAAAJ:43bX7VzcjpAC"
+    },
+    {
+      "title": "AgriChat: Verified Multimodal Learning for Plant Biodiversity Monitoring, Species Recognition, and Agroecosystem Image Understanding",
+      "authors": "A Boudiaf, I Hussain, S Javed",
+      "venue": "Species Recognition, and Agroecosystem Image Understanding , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:37UQlXuwjP4C"
+    },
+    {
+      "title": "FishDet-M: A Large-Scale Multi-Domain Benchmark for Fish Detection in Challenging Underwater Environments",
+      "authors": "M Abujabal, L Saad Saoud, I Hussain",
+      "venue": "Available at SSRN 6778932 , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:nPT8s1NX_-sC"
+    },
+    {
+      "title": "Sliding Perturbation Observer–Based Adaptive Torque Control for Human-in-the-LoopKnee Exoskeletons",
+      "authors": "N Elhendawi, A Aljarah, S Muhammad, M Irshaid, L AbuAssi, Y Zweiri, ...",
+      "venue": "Available at SSRN 6712644 , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:oPLKW5k6eA4C"
+    },
+    {
+      "title": "A Large Scale Maritime Visual Object Tracking Dataset and Benchmark",
+      "authors": "A Baidar Bakht, M Ud Din, S Javed, I Hussain",
+      "venue": "Muhayy and Javed, Sajid and Hussain, Irfan, A Large Scale Maritime Visual … , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:BmWJbWwHJAwC"
+    },
+    {
+      "title": "Towards wearable supernumerary robotic fingers to compensate the missing grasping abilities in hemiparetic upper limb Journal Title XX (X): 1–23",
+      "authors": "I Hussain, G Spagnoletti",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:c1e4I3QdEKYC"
+    },
+    {
+      "title": "Muhammad Zubair1, Muhammad Owais2✉, Taimur Hassan3, Malika Bendechache4",
+      "authors": "M Hussain, I Hussain, N Werghi",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:ghEM2AJqZyQC"
+    },
+    {
+      "title": "Robotic Pollination Through Airflow and Pose Estimation: A Non-Contact Approach for Precision Agriculture",
+      "authors": "R SINGH, M Kaur, A Gadade, I Hussain",
+      "venue": "Available at SSRN 5518711 , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:jE2MZjpN3IcC"
+    },
+    {
+      "title": "Quadrotor Uav Control and Simulation: Application to Greenhouse Plant Monitoring",
+      "authors": "R Singh, A Gadade, L Seneviratne, I Hussain",
+      "venue": "Available at SSRN 5142934 , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:4xDN1ZYqzskC"
+    },
+    {
+      "title": "Advancements in Precision Spraying of Agricultural Robots: A Comprehensive",
+      "authors": "K LOCHAN, A KHAN, I ELSAYED, B SUTHAR, L SENEVIRATNE, ...",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:0CzhzZyukY4C"
+    },
+    {
+      "title": "Hubot: A Biomimicking Mobile Robot for Non-Disruptive Bird Behavior Study and Ecological Conservation",
+      "authors": "L Saad Saoud, L Lesobre, E Sorato, S Al Qaydi, Y Hingrat, L Seneviratne, ...",
+      "venue": "Available at SSRN 4911259 , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:HIFyuExEbWQC"
+    },
+    {
+      "title": "Design, Modeling and Testing of a Flagellum-inspired Soft Underwater Propeller Exploiting Passive Elasticity",
+      "authors": "C Stefanini, C Armanini, D Gan, F Renda, F Giorgio-Serchi, I Hussain, ...",
+      "venue": "University of Lincoln , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:8d8msizDQcsC"
+    },
+    {
+      "title": "2013 13th International Conference on Control, Automation and Systems (ICCAS 2013) Oct. 20-23, 2013 in Kimdaejung Convention Center, Gwangju, Korea",
+      "authors": "MK Kiml, K Kim",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:URolC5Kub84C"
+    },
+    {
+      "title": "Design Criteria of the Passive Joints in Underactuated Modular Soft Hands",
+      "authors": "M Malvezzi, I Hussain, Z Iqbal, G Salvietti, D Prattichizzo",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:nrtMV_XWKgEC"
+    },
+    {
+      "title": "A novel generation of wearable supernumerary robotic fingers to compensate the missing grasping abilities in hemiparetic upper limbs",
+      "authors": "G Salvietti, I Hussain, G Spagnoletti, D Prattichizzo",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:dhFuZR0502QC"
+    },
+    {
+      "title": "Towards the assessment of the functionality and usefulness of robotic extra-finger.",
+      "authors": "I Hussain, L Meli, G Salvietti, D Prattichizzo",
+      "venue": "ICRA 2017 Workshop on Advances and challenges on the development, testing … , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:aqlVkmm33-oC"
+    },
+    {
+      "title": "An EMG Interface for the Control of Motion and Compliance of a Supernumerary Robotic Finger",
+      "authors": "DP Irfan Hussain, Giovanni Spagnoletti, Gionata Salvietti",
+      "venue": "Frontiers on Neurorobotics, , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bCC3kdUAAAAJ&cstart=200&pagesize=100&citation_for_view=bCC3kdUAAAAJ:MXK_kJrjxJIC"
+    }
+  ],
+  "stories": [
+    {
+      "title": "KU-BIT Team Fly Eagle: 3rd Place Worldwide at MBZIRC 2024",
+      "text": "From 52 international teams across 25 countries, our heterogeneous UAV-USV team finished 3rd globally at the Mohamed Bin Zayed International Robotics Challenge. USD 100,000 for the robotic arm milestone, USD 50,000 for the Unmanned Surface Vehicle.",
+      "category": "MBZIRC 2024",
+      "url": "",
+      "images": [],
+      "slug": "ku-bit-team-fly-eagle-3rd-place-worldwide-at-mbzirc-2024"
+    },
+    {
+      "title": "ADAFSA Visits KUCARS to Explore Agri-Robotics and Smart Agriculture Collaboration",
+      "text": "ADAFSA visited KUCARS to explore AI-enabled robotics, intelligent perception, autonomous systems, and precision agriculture, with discussions focused on collaboration for real-world agricultural challenges and sustainable food systems.",
+      "category": "Industry Collaboration",
+      "url": "https://www.linkedin.com/posts/ku-center-for-autonomous-robotic-systems_khalifauniversity-kucars-adafsa-ugcPost-7481972847117168640-ETge",
+      "images": [
+        {
+          "src": "/reference/images/ADAFSA1.png",
+          "alt": "ADAFSA visit to KUCARS image 1"
+        },
+        {
+          "src": "/reference/images/ADAFSA2.png",
+          "alt": "ADAFSA visit to KUCARS image 2"
+        }
+      ],
+      "slug": "adafsa-visits-kucars-to-explore-agri-robotics-and-smart-agriculture-collaboration"
+    },
+    {
+      "title": "AREIS Lab Showcases Automated Coral Health Monitoring at World Ocean Day Symposium",
+      "text": "The team presented a multi-stage robotic framework for coral bleaching assessment using underwater image enhancement, coral segmentation, color-reference chart detection, and automated bleaching analysis at the Yas SeaWorld Research & Rescue Center.",
+      "category": "Marine Research",
+      "url": "https://www.linkedin.com/posts/ihlab_scienceandstewardship-worldoceanday-yasseaworldresearchandrescue-activity-7470458784683913216-4BYR",
+      "images": [
+        {
+          "src": "/reference/images/Marine1.png",
+          "alt": "Coral health monitoring research image 1"
+        },
+        {
+          "src": "/reference/images/Marine2.png",
+          "alt": "Coral health monitoring research image 2"
+        }
+      ],
+      "slug": "areis-lab-showcases-automated-coral-health-monitoring-at-world-ocean-day-symposium"
+    },
+    {
+      "title": "AREIS Lab Advances Precision Agriculture Through Multispectral Imaging Training",
+      "text": "In collaboration with Kausora Technologies, the team received hands-on training in multispectral camera systems, calibration, spectral band selection, and agricultural data acquisition for crop-health monitoring and stress detection.",
+      "category": "Training & Technology",
+      "url": "https://www.linkedin.com/posts/ihlab_multispectralimaging-precisionagriculture-activity-7457785008318021632-8WbU",
+      "images": [
+        {
+          "src": "/reference/images/Training1.png",
+          "alt": "Multispectral imaging training image 1"
+        },
+        {
+          "src": "/reference/images/Training2.png",
+          "alt": "Multispectral imaging training image 2"
+        }
+      ],
+      "slug": "areis-lab-advances-precision-agriculture-through-multispectral-imaging-training"
+    },
+    {
+      "title": "TouchRIPE Moves Closer to Commercial Deployment Through LuLu Retail Site Visit",
+      "text": "The TouchRIPE team, together with Silal, visited LuLu Retail in Al Ain to evaluate how tactile-based fruit-ripeness assessment could support grading consistency, reduce waste, and improve fresh-produce handling and shelf-life decisions.",
+      "category": "Commercialization",
+      "url": "https://www.linkedin.com/posts/ihlab_touchripe-agribotic-freshproduce-activity-7427978305296809985-SnxD",
+      "images": [
+        {
+          "src": "/reference/images/Lulu1.png",
+          "alt": "TouchRIPE LuLu Retail visit image 1"
+        },
+        {
+          "src": "/reference/images/Lulu2.png",
+          "alt": "TouchRIPE LuLu Retail visit image 2"
+        }
+      ],
+      "slug": "touchripe-moves-closer-to-commercial-deployment-through-lulu-retail-site-visit"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Khalifa University",
+      "image": "/reference/images/Khalifa University.png",
+      "dark": false
+    },
+    {
+      "name": "KUCARS",
+      "image": "/reference/images/KUCARS.png",
+      "dark": false
+    },
+    {
+      "name": "ARIC Healthcare",
+      "image": "/reference/images/ARIC.png",
+      "dark": false
+    },
+    {
+      "name": "KU-Silal Centre of Excellence",
+      "image": "/reference/images/Silal.avif",
+      "dark": false
+    },
+    {
+      "name": "KU-BIT Joint Laboratory",
+      "image": "/reference/images/BIT.png",
+      "dark": false
+    },
+    {
+      "name": "MBZIRC",
+      "image": "/images/partners/mbzirc.svg",
+      "dark": true,
+      "source": "https://www.mbzirc.com/themes/custom/mbzirc/logo.svg"
+    },
+    {
+      "name": "Existo",
+      "image": "/images/partners/existo.png",
+      "dark": false,
+      "source": "https://cdn.healthtechalpha.com/static/startup_data_images/67005.png"
+    },
+    {
+      "name": "Stanford University",
+      "image": "/images/partners/stanford-university.png",
+      "dark": false,
+      "source": "https://identity.stanford.edu/wp-content/uploads/sites/3/2020/06/wordmark-full-nospace-red.png"
+    },
+    {
+      "name": "Chalmers University",
+      "image": "/images/partners/chalmers-university.svg",
+      "dark": true,
+      "source": "https://www.chalmers.se/_next/static/media/chalmers-emblem-white.11pif_jbe56ne.svg"
+    },
+    {
+      "name": "University of Siena",
+      "image": "/images/partners/university-of-siena.png",
+      "dark": true,
+      "source": "https://sailab.diism.unisi.it/wp-content/uploads/2019/10/logo_unisi_sito_sailab.png"
+    },
+    {
+      "name": "Politecnico di Torino",
+      "image": "/images/partners/politecnico-di-torino.svg",
+      "dark": false,
+      "source": "https://www.polito.it/themes/custom/polito_customizations/polito_logo_desktop.svg"
+    },
+    {
+      "name": "Mubadala",
+      "image": "/reference/images/Mubadala.svg",
+      "dark": true
+    },
+    {
+      "name": "ENEC",
+      "image": "/reference/images/ENEC.png",
+      "dark": false
+    },
+    {
+      "name": "Beijing Institute of Technology",
+      "image": "/images/partners/beijing-institute-of-technology.png",
+      "dark": true,
+      "source": "https://subsites.chinadaily.com.cn/enbit/att/6913.files/images/BIT_Logo.png"
+    },
+    {
+      "name": "Silal Agriculture",
+      "image": "/images/partners/silal-agriculture.webp",
+      "dark": true,
+      "source": "https://cdn.prod.website-files.com/64f03bd9bf9459e1c78b1166/64f03bd9bf9459e1c78b1191_silal-logo-white.webp"
+    }
+  ],
+  "stats": [
+    {
+      "value": "250+",
+      "label": "Peer-reviewed Publications"
+    },
+    {
+      "value": "4447+",
+      "label": "Citations"
+    },
+    {
+      "value": "AED 44M+",
+      "label": "Research Funding"
+    },
+    {
+      "value": "6",
+      "label": "US Patents"
+    },
+    {
+      "value": "36",
+      "label": "H-Index"
+    }
+  ],
+  "biography": [
+    "Dr. Irfan Hussain is an Associate Professor of Robotics and Mechanical Engineering at Khalifa University, Abu Dhabi, UAE, and Deputy Director of the Khalifa University Center for Autonomous Robotic Systems (KUCARS). His research focuses on embodied intelligence, integrating advanced mechanical design, sensing, actuation, compliance, artificial intelligence, perception, planning, learning, and control to develop intelligent robotic systems capable of operating safely and effectively in complex real-world environments. His work spans marine robotics, healthcare robotics, agricultural robotics, wearable robotics, and autonomous systems.",
+    "Dr. Hussain received his Ph.D. in Information Engineering, specializing in Automatic Control and Robotics, from the University of Siena, Italy. Prior to joining Khalifa University, he held research positions in Italy, South Korea, and the UAE, building extensive expertise in robotics, control systems, mechatronics, soft robotics, wearable haptics, and compliant robotic systems.",
+    "He has authored more than 200 peer-reviewed publications in leading journals and conferences, including IEEE Transactions on Robotics, The International Journal of Robotics Research, Information Fusion, IEEE Robotics and Automation Letters, Journal of Field Robotics, and Automatica. His research has attracted thousands of citations and contributed significantly to advancing robotics and autonomous systems. He is also an inventor of multiple U.S. patents, with several technologies progressing toward commercialization.",
+    "At Khalifa University, Dr. Hussain leads an internationally recognized research program that has developed innovative robotic technologies, including supernumerary robotic limbs for human augmentation and rehabilitation, compliant exoskeletons, variable-stiffness actuators, tactile sensing systems, autonomous marine robots, and AI-enabled agricultural robots. His work has fostered international collaborations, industry partnerships, advanced laboratory infrastructure, and the training of highly skilled researchers and engineers.",
+    "Dr. Hussain actively contributes to the global robotics community through editorial and leadership roles. He has served as Associate Editor for IEEE International Conference on Robotics and Automation (ICRA), Associate Editor for the Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, Guest Editor for Sensors, and Research Topic Editor for Frontiers in Robotics and AI and Frontiers in Neurorobotics.",
+    "His research has received numerous national and international recognitions, including the Khalifa University Research Publication Award, IEEE Haptics Symposium Best Demonstration Award, IEEE ICORR Best Student Paper Finalist recognition, and success at MBZIRC 2024. His work has been featured by CNN, The National, Abu Dhabi Media Office, Wired Middle East, Aspire, and other international media outlets.",
+    "Through interdisciplinary research, innovation, mentorship, and collaboration, Dr. Hussain advances next-generation robotic technologies that address critical challenges in healthcare, marine sustainability, food security, and intelligent autonomous systems."
+  ],
+  "vision": [
+    "Dr. Hussain's long-term research vision is to advance embodied intelligence in robotic systems through the seamless integration of physical intelligence and cognitive intelligence. Traditional robotics research often separates mechanical design from algorithmic intelligence; however, biological systems achieve adaptability through the interaction between body, sensing, actuation, cognition, and environment.",
+    "His work bridges this gap by developing robotic systems that combine compliant design, innovative actuation, intelligent sensing, perception, planning, learning, and control.",
+    "This vision has guided the establishment of multiple research programs at Khalifa University, including healthcare robotics, marine robotics, agricultural robotics, wearable robotics, robotic manipulation, and autonomous intelligent systems.",
+    "The research philosophy emphasizes both scientific excellence and societal relevance. These technologies address challenges in rehabilitation, human augmentation, food security, environmental sustainability, maritime safety, and industrial automation."
+  ],
+  "hero": "We develop robotic systems that perceive, learn, and act — across marine environments, agricultural greenhouses, healthcare settings, and beyond. Led by Associate Professor Dr. Irfan Hussain.",
+  "contact": "We welcome prospective PhD students, research collaborators, industry partners, and media enquiries. Research. Innovation. Collaboration.",
+  "enquiries": [
+    "PhD Application",
+    "Research Collaboration",
+    "Industry Partnership",
+    "Media Enquiry",
+    "Postdoctoral Position",
+    "Other"
+  ]
+}

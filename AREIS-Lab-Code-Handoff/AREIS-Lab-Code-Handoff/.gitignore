@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+data/
+~$*.xlsx
+.env*
+!.env.example
+.DS_Store
