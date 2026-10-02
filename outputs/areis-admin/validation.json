@@ -1,0 +1,19 @@
+{
+  "counts": {
+    "Projects": 17,
+    "ProjectImages": 18,
+    "Research": 5,
+    "ResearchParagraphs": 17,
+    "ResearchTags": 25,
+    "ResearchImages": 48,
+    "ResearchInitiatives": 4
+  },
+  "researchMaps": 5,
+  "roundTrip": "All project/research/initiative source fields match after XLSX export/import",
+  "sourceFiles": [
+    "app/site-content.json",
+    "app/research-data.ts",
+    "app/research-content.ts",
+    "app/research/[slug]/page.tsx"
+  ]
+}
